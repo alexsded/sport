@@ -2589,6 +2589,36 @@ https://7pal.short.gy/binmax3
 https://7pal.short.gy/spersppl
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://i.imgur.com/HsolYfq.png" group-title="UEFA_EURO_2024", EURO2024-TSN1-FHD
 https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="EURO 01 HD" tvg-name="EURO 01 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjCbiHur2BW6k7xlKMQzvsZMTVEqE4LG8ww&usqp=CAU" group-title="UEFA_EURO_2024", EURO 01 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550843&extension=ts&play_token=JZTU18xqBF
+#EXTINF:-1 tvg-id="EURO 02 HD" tvg-name="EURO 02 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 02 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550844&extension=ts&play_token=XU5DW7xnSh
+#EXTINF:-1 tvg-id="EURO 03 HD" tvg-name="EURO 03 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjCbiHur2BW6k7xlKMQzvsZMTVEqE4LG8ww&usqp=CAU" group-title="UEFA_EURO_2024", EURO 03 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550845&extension=ts&play_token=f3BdzehvIs
+#EXTINF:-1 tvg-id="EURO 04 HD" tvg-name="EURO 04 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 04 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550846&extension=ts&play_token=mbweUUP1JO
+#EXTINF:-1 tvg-id="EURO 05 HD" tvg-name="EURO 05 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjCbiHur2BW6k7xlKMQzvsZMTVEqE4LG8ww&usqp=CAU" group-title="UEFA_EURO_2024", EURO 05 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550847&extension=ts&play_token=E0VZrw6T6H
+#EXTINF:-1 tvg-id="EURO 06 HD" tvg-name="EURO 06 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 06 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550848&extension=ts&play_token=OmOUnmUIBr
+#EXTINF:-1 tvg-id="EURO 07 HD" tvg-name="EURO 07 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjCbiHur2BW6k7xlKMQzvsZMTVEqE4LG8ww&usqp=CAU" group-title="UEFA_EURO_2024", EURO 07 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550849&extension=ts&play_token=1SDr08eGVA
+#EXTINF:-1 tvg-id="EURO 08 HD" tvg-name="EURO 08 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 08 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550850&extension=ts&play_token=zvxrDJOmej
+#EXTINF:-1 tvg-id="EURO 09 HD" tvg-name="EURO 09 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjCbiHur2BW6k7xlKMQzvsZMTVEqE4LG8ww&usqp=CAU" group-title="UEFA_EURO_2024", EURO 09 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550851&extension=ts&play_token=ealaAM5I1f
+#EXTINF:-1 tvg-id="EURO 10 HD" tvg-name="EURO 10 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 10 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550852&extension=ts&play_token=JQWZ74ioxa
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 1
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 2

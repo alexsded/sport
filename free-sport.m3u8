@@ -2619,11 +2619,11 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550852&e
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 1
 https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 2
 https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 3
 https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 4
 https://7pal.short.gy/event4

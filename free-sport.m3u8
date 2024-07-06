@@ -2609,21 +2609,3 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550850&e
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550851&extension=ts&play_token=ealaAM5I1f
 #EXTINF:-1 tvg-id="EURO 10 HD" tvg-name="EURO 10 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 10 HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550852&extension=ts&play_token=JQWZ74ioxa
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 3
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="UEFA_EURO_2024", Event 4
-https://7pal.short.gy/event4

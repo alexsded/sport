@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",06.07.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",07.07.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -2609,3 +2609,982 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550850&e
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550851&extension=ts&play_token=ealaAM5I1f
 #EXTINF:-1 tvg-id="EURO 10 HD" tvg-name="EURO 10 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2mUIjxOiV5EKDMrTCyg7dRZgcv7HzPBjPg&usqp=CAU" group-title="UEFA_EURO_2024", EURO 10 HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550852&extension=ts&play_token=JQWZ74ioxa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport Ultimate 4K" group-title="4K Channels",UK: TNT Sport Ultimate 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1076386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN1 FHD" group-title="DAZN UK",UK: DAZN1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1065544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN1 HD" group-title="DAZN UK",UK: DAZN1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1065545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports News" group-title="Sky Sports",UK FHD : Sky Sports News
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5533&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports News" group-title="Sky Sports",UK HD : Sky Sports News
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports News" group-title="Sky Sports",UK SD : Sky Sports News
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5555&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Main Event" group-title="Sky Sports",UK FHD : Sky Sports Main Event
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5531&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Main Event" group-title="Sky Sports",UK HD : Sky Sports Main Event
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5542&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Main Event" group-title="Sky Sports",UK SD : Sky Sports Main Event
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5553&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Football" group-title="Sky Sports",UK FHD : Sky Sports Football
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5529&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Football" group-title="Sky Sports",UK HD : Sky Sports Football
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5540&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Football" group-title="Sky Sports",UK SD : Sky Sports Football
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5551&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Prem L" group-title="Sky Sports",UK FHD : Sky Sports Prem L
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5535&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Prem L" group-title="Sky Sports",UK HD : Sky Sports Prem L
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5546&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Prem L" group-title="Sky Sports",UK SD : Sky Sports Prem L
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5557&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Arena" group-title="Sky Sports",UK FHD : Sky Sports Arena
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5526&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Arena" group-title="Sky Sports",UK HD : Sky Sports Arena
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5537&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Arena" group-title="Sky Sports",UK SD : Sky Sports Arena
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5548&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Cricket" group-title="Sky Sports",UK FHD : Sky Sports Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5527&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Cricket" group-title="Sky Sports",UK HD : Sky Sports Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5538&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Cricket" group-title="Sky Sports",UK SD : Sky Sports Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5549&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports F1" group-title="Sky Sports",UK FHD : Sky Sports F1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5528&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports F1" group-title="Sky Sports",UK HD : Sky Sports F1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5539&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports F1" group-title="Sky Sports",UK SD : Sky Sports F1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5550&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Golf" group-title="Sky Sports",UK FHD : Sky Sports Golf
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5530&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Golf" group-title="Sky Sports",UK HD : Sky Sports Golf
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5541&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Golf" group-title="Sky Sports",UK SD : Sky Sports Golf
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5552&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Mix" group-title="Sky Sports",UK FHD : Sky Sports Mix
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5532&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Mix" group-title="Sky Sports",UK HD : Sky Sports Mix
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5543&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Mix" group-title="Sky Sports",UK SD : Sky Sports Mix
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5554&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Action" group-title="Sky Sports",UK FHD : Sky Sports Action
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5534&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Action" group-title="Sky Sports",UK HD : Sky Sports Action
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Action" group-title="Sky Sports",UK SD : Sky Sports Action
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5556&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Racing" group-title="Sky Sports",UK FHD : Sky Sports Racing
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5536&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Racing" group-title="Sky Sports",UK HD : Sky Sports Racing
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5547&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Racing" group-title="Sky Sports",UK SD : Sky Sports Racing
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5558&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports NFL" group-title="Sky Sports",UK FHD : Sky Sports NFL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports NFL" group-title="Sky Sports",UK HD : Sky Sports NFL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997323&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports NFL" group-title="Sky Sports",UK SD : Sky Sports NFL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997324&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Tennis" group-title="Sky Sports",UK FHD : Sky Sports Tennis
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086937&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Tennis" group-title="Sky Sports",UK HD : Sky Sports Tennis
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086968&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Tennis" group-title="Sky Sports",UK SD : Sky Sports Tennis
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1" group-title="TNT Sports",UK FHD : TNT Sports 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 1" group-title="TNT Sports",UK HD : TNT Sports 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 1" group-title="TNT Sports",UK SD : TNT Sports 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2" group-title="TNT Sports",UK FHD : TNT Sports 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 2" group-title="TNT Sports",UK HD : TNT Sports 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 2" group-title="TNT Sports",UK SD : TNT Sports 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4454&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3" group-title="TNT Sports",UK FHD : TNT Sports 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 3" group-title="TNT Sports",UK HD : TNT Sports 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 3" group-title="TNT Sports",UK SD : TNT Sports 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4455&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4" group-title="TNT Sports",UK FHD : TNT Sports 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 4" group-title="TNT Sports",UK HD : TNT Sports 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 4" group-title="TNT Sports",UK SD : TNT Sports 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4456&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 5" group-title="TNT Sports",UK HD : TNT Sport 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4462&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 6" group-title="TNT Sports",UK HD : TNT Sport 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4463&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 7" group-title="TNT Sports",UK HD : TNT Sport 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 8" group-title="TNT Sports",UK HD : TNT Sport 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4465&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 9" group-title="TNT Sports",UK HD : TNT Sport 9
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 10" group-title="TNT Sports",UK HD : TNT Sport 10
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4467&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 1 (50 FPS)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4457&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 2 (50 FPS)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 3 (50 FPS)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4459&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 4 (50 FPS)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4461&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 1 SD" group-title="Red Button",UK SD : SkySports Red Button 1 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573431&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 2 SD" group-title="Red Button",UK SD : SkySports Red Button 2 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 3 SD" group-title="Red Button",UK SD : SkySports Red Button 3 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 4 SD" group-title="Red Button",UK SD : SkySports Red Button 4 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573428&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 5 SD" group-title="Red Button",UK SD : SkySports Red Button 5 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 6 SD" group-title="Red Button",UK SD : SkySports Red Button 6 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573426&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 7 SD" group-title="Red Button",UK SD : SkySports Red Button 7 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 8 SD" group-title="Red Button",UK SD : SkySports Red Button 8 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573424&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 9 SD" group-title="Red Button",UK SD : SkySports Red Button 9 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573423&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 10 SD" group-title="Red Button",UK SD : SkySports Red Button 10 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573422&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : LFC TV" group-title="Premier League",UK FHD : LFC TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : LFC TV" group-title="Premier League",UK HD : LFC TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=231672&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : MUTV" group-title="Premier League",UK FHD : MUTV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5095&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : MUTV" group-title="Premier League",UK SD : MUTV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5399&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 1 FHD" group-title="France",fr: EUROSPORT 1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127214&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 1 HD" group-title="France",fr: EUROSPORT 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 1 SD" group-title="France",fr: EUROSPORT 1 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127483&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 2 FHD" group-title="France",fr: EUROSPORT 2 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127213&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 2 HD" group-title="France",fr: EUROSPORT 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT 2 SD" group-title="France",fr: EUROSPORT 2 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127457&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 1 HD" group-title="France",fr: EUROSPORT360 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127388&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 1 SD" group-title="France",fr: EUROSPORT360 1 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127547&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 2 HD" group-title="France",fr: EUROSPORT360 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 2 SD" group-title="France",fr: EUROSPORT360 2 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127548&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 3 HD" group-title="France",fr: EUROSPORT360 3 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127390&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 3 SD" group-title="France",fr: EUROSPORT360 3 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127549&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 4 HD" group-title="France",fr: EUROSPORT360 4 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127391&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 4 SD" group-title="France",fr: EUROSPORT360 4 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127550&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 5 HD" group-title="France",fr: EUROSPORT360 5 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127392&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 5 SD" group-title="France",fr: EUROSPORT360 5 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127551&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 6 HD" group-title="France",fr: EUROSPORT360 6 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127393&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 6 SD" group-title="France",fr: EUROSPORT360 6 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127552&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 7 HD" group-title="France",fr: EUROSPORT360 7 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127394&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 7 SD" group-title="France",fr: EUROSPORT360 7 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127553&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 8 HD" group-title="France",fr: EUROSPORT360 8 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127395&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: EUROSPORT360 8 SD" group-title="France",fr: EUROSPORT360 8 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127554&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: fr: CANAL+ PREMIER LEAGUE HD" group-title="France",fr: fr: CANAL+ PREMIER LEAGUE HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127374&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 1 HD" group-title="France",fr: MULTISPORTS 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127396&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 1 SD" group-title="France",fr: MULTISPORTS 1 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127541&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 2 HD" group-title="France",fr: MULTISPORTS 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127397&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 2 SD" group-title="France",fr: MULTISPORTS 2 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127542&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 3 HD" group-title="France",fr: MULTISPORTS 3 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127398&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 3 SD" group-title="France",fr: MULTISPORTS 3 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127543&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 4 HD" group-title="France",fr: MULTISPORTS 4 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127399&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 4 SD" group-title="France",fr: MULTISPORTS 4 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127544&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 5 HD" group-title="France",fr: MULTISPORTS 5 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127400&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 5 SD" group-title="France",fr: MULTISPORTS 5 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 6 HD" group-title="France",fr: MULTISPORTS 6 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127401&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 6 SD" group-title="France",fr: MULTISPORTS 6 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127546&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 7 HD" group-title="France",fr: MULTISPORTS 7 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127246&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: MULTISPORTS 7 SD" group-title="France",fr: MULTISPORTS 7 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127451&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT 1 FHD" group-title="France",fr: RMC SPORT 1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT 1 HD" group-title="France",fr: RMC SPORT 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127402&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT 2 FHD" group-title="France",fr: RMC SPORT 2 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT 2 HD" group-title="France",fr: RMC SPORT 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127403&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 3 FHD" group-title="France",fr: RMC SPORT LIVE 3 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 4 FHD" group-title="France",fr: RMC SPORT LIVE 4 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127165&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 5 FHD" group-title="France",fr: RMC SPORT LIVE 5 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127163&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 6 FHD" group-title="France",fr: RMC SPORT LIVE 6 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 7 FHD" group-title="France",fr: RMC SPORT LIVE 7 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127161&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: RMC SPORT LIVE 8 FHD" group-title="France",fr: RMC SPORT LIVE 8 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127160&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="fr: SPORT EN FRANCE FHD" group-title="France",fr: SPORT EN FRANCE FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="fr: SPORT EN FRANCE HD" group-title="France",fr: SPORT EN FRANCE HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1127409&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus PPV" group-title="ESPN",ESPNplus PPV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003037&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 00 HD" group-title="ESPN",ESPNplus 00 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003038&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 01 HD" group-title="ESPN",ESPNplus 01 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003039&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 02 HD" group-title="ESPN",ESPNplus 02 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003040&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 03 HD" group-title="ESPN",ESPNplus 03 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003041&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 04 HD" group-title="ESPN",ESPNplus 04 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003042&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 05 HD" group-title="ESPN",ESPNplus 05 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003043&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 06 HD" group-title="ESPN",ESPNplus 06 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003044&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 07 HD" group-title="ESPN",ESPNplus 07 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003045&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 08 HD" group-title="ESPN",ESPNplus 08 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003046&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 09 HD" group-title="ESPN",ESPNplus 09 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003047&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 10 HD" group-title="ESPN",ESPNplus 10 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003048&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 11 HD" group-title="ESPN",ESPNplus 11 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003049&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 12 HD" group-title="ESPN",ESPNplus 12 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003050&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 13 HD" group-title="ESPN",ESPNplus 13 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 14 HD" group-title="ESPN",ESPNplus 14 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003052&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 15 HD" group-title="ESPN",ESPNplus 15 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 16 HD" group-title="ESPN",ESPNplus 16 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003054&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 17 HD" group-title="ESPN",ESPNplus 17 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003055&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 18 HD" group-title="ESPN",ESPNplus 18 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003056&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 19 HD" group-title="ESPN",ESPNplus 19 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003057&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 20 HD" group-title="ESPN",ESPNplus 20 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 21 HD" group-title="ESPN",ESPNplus 21 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003059&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 22 HD" group-title="ESPN",ESPNplus 22 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003060&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 23 HD" group-title="ESPN",ESPNplus 23 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 24 HD" group-title="ESPN",ESPNplus 24 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 25 HD" group-title="ESPN",ESPNplus 25 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 26 HD" group-title="ESPN",ESPNplus 26 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 27 HD" group-title="ESPN",ESPNplus 27 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 28 HD" group-title="ESPN",ESPNplus 28 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003066&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 29 HD" group-title="ESPN",ESPNplus 29 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 30 HD" group-title="ESPN",ESPNplus 30 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 31 HD" group-title="ESPN",ESPNplus 31 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003069&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 32 HD" group-title="ESPN",ESPNplus 32 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003070&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 33 HD" group-title="ESPN",ESPNplus 33 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003071&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 34 HD" group-title="ESPN",ESPNplus 34 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003072&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 35 HD" group-title="ESPN",ESPNplus 35 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003073&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 36 HD" group-title="ESPN",ESPNplus 36 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003074&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 37 HD" group-title="ESPN",ESPNplus 37 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003075&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 38 HD" group-title="ESPN",ESPNplus 38 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003076&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 39 HD" group-title="ESPN",ESPNplus 39 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003077&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 40 HD" group-title="ESPN",ESPNplus 40 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 41 HD" group-title="ESPN",ESPNplus 41 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003079&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 42 HD" group-title="ESPN",ESPNplus 42 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003080&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 43 HD" group-title="ESPN",ESPNplus 43 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 44 HD" group-title="ESPN",ESPNplus 44 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003082&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 45 HD" group-title="ESPN",ESPNplus 45 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 46 HD" group-title="ESPN",ESPNplus 46 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 47 HD" group-title="ESPN",ESPNplus 47 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003085&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 48 HD" group-title="ESPN",ESPNplus 48 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003086&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 49 HD" group-title="ESPN",ESPNplus 49 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003087&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 50 HD" group-title="ESPN",ESPNplus 50 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003088&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 51 HD" group-title="ESPN",ESPNplus 51 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003089&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 52 HD" group-title="ESPN",ESPNplus 52 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 53 HD" group-title="ESPN",ESPNplus 53 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003091&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 54 HD" group-title="ESPN",ESPNplus 54 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003092&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 55 HD" group-title="ESPN",ESPNplus 55 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 56 HD" group-title="ESPN",ESPNplus 56 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003094&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 57 HD" group-title="ESPN",ESPNplus 57 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003095&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 58 HD" group-title="ESPN",ESPNplus 58 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003096&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 59 HD" group-title="ESPN",ESPNplus 59 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003097&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 60 HD" group-title="ESPN",ESPNplus 60 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003098&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 61 HD" group-title="ESPN",ESPNplus 61 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003099&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 62 HD" group-title="ESPN",ESPNplus 62 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 63 HD" group-title="ESPN",ESPNplus 63 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 64 HD" group-title="ESPN",ESPNplus 64 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 65 HD" group-title="ESPN",ESPNplus 65 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 66 HD" group-title="ESPN",ESPNplus 66 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 67 HD" group-title="ESPN",ESPNplus 67 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 68 HD" group-title="ESPN",ESPNplus 68 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 69 HD" group-title="ESPN",ESPNplus 69 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003107&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 70 HD" group-title="ESPN",ESPNplus 70 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003108&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 71 HD" group-title="ESPN",ESPNplus 71 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 72 HD" group-title="ESPN",ESPNplus 72 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 73 HD" group-title="ESPN",ESPNplus 73 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 74 HD" group-title="ESPN",ESPNplus 74 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 75 HD" group-title="ESPN",ESPNplus 75 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 76 HD" group-title="ESPN",ESPNplus 76 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 77 HD" group-title="ESPN",ESPNplus 77 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 78 HD" group-title="ESPN",ESPNplus 78 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 79 HD" group-title="ESPN",ESPNplus 79 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 80 HD" group-title="ESPN",ESPNplus 80 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 81 HD" group-title="ESPN",ESPNplus 81 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 82 HD" group-title="ESPN",ESPNplus 82 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 83 HD" group-title="ESPN",ESPNplus 83 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003121&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 84 HD" group-title="ESPN",ESPNplus 84 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 85 HD" group-title="ESPN",ESPNplus 85 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 86 HD" group-title="ESPN",ESPNplus 86 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003124&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 87 HD" group-title="ESPN",ESPNplus 87 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 88 HD" group-title="ESPN",ESPNplus 88 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 89 HD" group-title="ESPN",ESPNplus 89 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003127&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 90 HD" group-title="ESPN",ESPNplus 90 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 91 HD" group-title="ESPN",ESPNplus 91 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 92 HD" group-title="ESPN",ESPNplus 92 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003130&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 93 HD" group-title="ESPN",ESPNplus 93 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003131&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 94 HD" group-title="ESPN",ESPNplus 94 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003132&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 95 HD" group-title="ESPN",ESPNplus 95 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003133&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 96 HD" group-title="ESPN",ESPNplus 96 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003134&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 97 HD" group-title="ESPN",ESPNplus 97 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003135&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 98 HD" group-title="ESPN",ESPNplus 98 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 99 HD" group-title="ESPN",ESPNplus 99 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 100 HD" group-title="ESPN",ESPNplus 100 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003138&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 101 HD" group-title="ESPN",ESPNplus 101 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003139&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 102 HD" group-title="ESPN",ESPNplus 102 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003140&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 103 HD" group-title="ESPN",ESPNplus 103 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 104 HD" group-title="ESPN",ESPNplus 104 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003142&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 105 HD" group-title="ESPN",ESPNplus 105 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003143&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 106 HD" group-title="ESPN",ESPNplus 106 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003144&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 107 HD" group-title="ESPN",ESPNplus 107 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003145&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 108 HD" group-title="ESPN",ESPNplus 108 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003146&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPNplus 109 HD" group-title="ESPN",ESPNplus 109 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003147&extension=ts
+
+
+
+

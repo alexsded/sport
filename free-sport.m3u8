@@ -3576,5 +3576,128 @@ http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003146&
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1003147&extension=ts
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS ACTION" group-title="SuperSports",SA: SS ACTION
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531514&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS BLITZ" group-title="SuperSports",SA: SS BLITZ
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531504&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS RUGBY" group-title="SuperSports",SA: SS RUGBY
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=918280&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS SCHOOLS" group-title="SuperSports",SA: SS SCHOOLS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=849867&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS GRANDSTAND" group-title="SuperSports",SA: SS GRANDSTAND
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531505&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS CRICKET" group-title="SuperSports",SA: SS CRICKET
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531516&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS GOLF" group-title="SuperSports",SA: SS GOLF
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531517&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS TENNIS" group-title="SuperSports",SA: SS TENNIS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531518&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS MOTORSPORT" group-title="SuperSports",SA: SS MOTORSPORT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531519&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS VARIETY 1" group-title="SuperSports",SA: SS VARIETY 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531510&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS VARIETY 2" group-title="SuperSports",SA: SS VARIETY 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531511&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS VARIETY 3" group-title="SuperSports",SA: SS VARIETY 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531512&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS VARIETY 4" group-title="SuperSports",SA: SS VARIETY 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531513&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS PREMIER LEAGUE" group-title="SuperSports",SA: SS PREMIER LEAGUE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531507&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS FOOTBALL" group-title="SuperSports",SA: SS FOOTBALL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531509&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS LALIGA" group-title="SuperSports",SA: SS LALIGA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531508&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS PSL" group-title="SuperSports",SA: SS PSL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531506&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS MAXIMO 1" group-title="SuperSports",SA: SS MAXIMO 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531520&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS ESPN" group-title="SuperSports",SA: SS ESPN
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531502&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS ESPN2" group-title="SuperSports",SA: SS ESPN2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531503&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 1" group-title="SuperSports",SA: SS OTT 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531521&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 2" group-title="SuperSports",SA: SS OTT 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531522&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 3" group-title="SuperSports",SA: SS OTT 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531523&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 4" group-title="SuperSports",SA: SS OTT 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531390&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 5" group-title="SuperSports",SA: SS OTT 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 6" group-title="SuperSports",SA: SS OTT 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531388&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 7" group-title="SuperSports",SA: SS OTT 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: SS OTT 8" group-title="SuperSports",SA: SS OTT 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: RACING 240" group-title="SuperSports",SA: RACING 240
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=656651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: GINX eSPORTS" group-title="SuperSports",SA: GINX eSPORTS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531406&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SA: WWE CHANNEL HD" group-title="SuperSports",SA: WWE CHANNEL HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531407&extension=ts
 

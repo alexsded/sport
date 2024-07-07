@@ -2626,18 +2626,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:32:C9:A5&stream=1550852&e
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport Ultimate 4K" group-title="4K Channels",UK: TNT Sport Ultimate 4K
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1076386&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN1 FHD" group-title="DAZN UK",UK: DAZN1 FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1065544&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN1 HD" group-title="DAZN UK",UK: DAZN1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1065545&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports News" group-title="Sky Sports",UK FHD : Sky Sports News
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100

@@ -27,6 +27,9 @@ http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Panda
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",Moto GP (Evgen)
 https://s5.strea.ru/index.m3u8
 
+#EXTINF:-1 group-title="Live/Channel" ,SCORELIVE 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
@@ -127,7 +130,56 @@ http://194.26.229.213/Prokop-TV-Music/video.m3u8?token=Panda
 
 
 
-
+#EXTINF:-1 group-title="t",Матч Премьер
+http://185.163.194.185:6987/135/mpegts
+#EXTINF:-1 group-title="StarNet",Sport 2
+http://185.163.194.185:6987/136/mpegts
+#EXTINF:-1 group-title="StarNet",Матч ТВ
+http://185.163.194.185:6987/137/mpegts
+#EXTINF:-1 group-title="StarNet",Бокс ТВ
+http://185.163.194.185:6987/213/mpegts
+#EXTINF:-1 group-title="StarNet",DIGI Sport 1
+http://185.163.194.185:6987/88/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Планета
+http://185.163.194.185:6987/111/mpegts
+#EXTINF:-1 group-title="StarNet",Eurosport 1 HD
+http://185.163.194.185:6987/130/mpegts
+#EXTINF:-1 group-title="StarNet",Eurosport 2 HD
+http://185.163.194.185:6987/131/mpegts
+#EXTINF:-1 group-title="StarNet",Viasat Sport
+http://185.163.194.185:6987/133/mpegts
+#EXTINF:-1 group-title="StarNet",KHL
+http://185.163.194.185:6987/141/mpegts
+#EXTINF:-1 group-title="StarNet",We sport HD
+http://185.163.194.185:6987/187/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Арена
+http://185.163.194.185:6987/142/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Боец
+http://185.163.194.185:6987/143/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Игра
+http://185.163.194.185:6987/144/mpegts
+#EXTINF:-1 group-title="StarNet",Мир баскетбола
+http://185.163.194.185:6987/145/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Футбол 1
+http://185.163.194.185:6987/146/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Футбол 2
+http://185.163.194.185:6987/147/mpegts
+#EXTINF:-1 group-title="StarNet",Матч! Футбол 3
+http://185.163.194.185:6987/148/mpegts
+#EXTINF:-1 group-title="StarNet",Digi Sport 3
+http://185.163.194.185:6987/149/mpegts
+#EXTINF:-1 group-title="StarNet",Digi Sport 2 HD
+http://185.163.194.185:6987/150/mpegts
+#EXTINF:-1 group-title="StarNet",Digi Sport 1 HD
+http://185.163.194.185:6987/151/mpegts
+#EXTINF:-1 group-title="StarNet",Fightbox HD
+http://185.163.194.185:6987/157/mpegts
+#EXTINF:-1 group-title="StarNet",MMA-TV.COM
+http://185.163.194.185:6987/202/mpegts
+#EXTINF:-1 group-title="StarNet",Sport 1
+http://185.163.194.185:6987/204/mpegts
+#EXTINF:-1 group-title="StarNet",SETANTA SPORTS 1 HD
+http://185.163.194.185:6987/230/mpegts
 
 
 
@@ -556,11 +608,10 @@ http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Russia" ,Eurosport 1
-http://193.201.98.10:5000/c153
-
+http://194.26.229.213/Eurosport-1/index.m3u8?token=Panda
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Russia" ,Eurosport 2
-http://193.201.98.10:5000/c154
+http://194.26.229.213/Eurosport-2/index.m3u8?token=Panda
 
 #EXTINF:-1 group-title="Russia",Старт HD
 http://194.26.229.213/start_new/index.m3u8?token=Panda

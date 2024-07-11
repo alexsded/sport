@@ -130,56 +130,7 @@ http://194.26.229.213/Prokop-TV-Music/video.m3u8?token=Panda
 
 
 
-#EXTINF:-1 group-title="t",Матч Премьер
-http://185.163.194.185:6987/135/mpegts
-#EXTINF:-1 group-title="StarNet",Sport 2
-http://185.163.194.185:6987/136/mpegts
-#EXTINF:-1 group-title="StarNet",Матч ТВ
-http://185.163.194.185:6987/137/mpegts
-#EXTINF:-1 group-title="StarNet",Бокс ТВ
-http://185.163.194.185:6987/213/mpegts
-#EXTINF:-1 group-title="StarNet",DIGI Sport 1
-http://185.163.194.185:6987/88/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Планета
-http://185.163.194.185:6987/111/mpegts
-#EXTINF:-1 group-title="StarNet",Eurosport 1 HD
-http://185.163.194.185:6987/130/mpegts
-#EXTINF:-1 group-title="StarNet",Eurosport 2 HD
-http://185.163.194.185:6987/131/mpegts
-#EXTINF:-1 group-title="StarNet",Viasat Sport
-http://185.163.194.185:6987/133/mpegts
-#EXTINF:-1 group-title="StarNet",KHL
-http://185.163.194.185:6987/141/mpegts
-#EXTINF:-1 group-title="StarNet",We sport HD
-http://185.163.194.185:6987/187/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Арена
-http://185.163.194.185:6987/142/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Боец
-http://185.163.194.185:6987/143/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Игра
-http://185.163.194.185:6987/144/mpegts
-#EXTINF:-1 group-title="StarNet",Мир баскетбола
-http://185.163.194.185:6987/145/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Футбол 1
-http://185.163.194.185:6987/146/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Футбол 2
-http://185.163.194.185:6987/147/mpegts
-#EXTINF:-1 group-title="StarNet",Матч! Футбол 3
-http://185.163.194.185:6987/148/mpegts
-#EXTINF:-1 group-title="StarNet",Digi Sport 3
-http://185.163.194.185:6987/149/mpegts
-#EXTINF:-1 group-title="StarNet",Digi Sport 2 HD
-http://185.163.194.185:6987/150/mpegts
-#EXTINF:-1 group-title="StarNet",Digi Sport 1 HD
-http://185.163.194.185:6987/151/mpegts
-#EXTINF:-1 group-title="StarNet",Fightbox HD
-http://185.163.194.185:6987/157/mpegts
-#EXTINF:-1 group-title="StarNet",MMA-TV.COM
-http://185.163.194.185:6987/202/mpegts
-#EXTINF:-1 group-title="StarNet",Sport 1
-http://185.163.194.185:6987/204/mpegts
-#EXTINF:-1 group-title="StarNet",SETANTA SPORTS 1 HD
-http://185.163.194.185:6987/230/mpegts
+
 
 
 
@@ -685,6 +636,12 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1  group-title="Russia" ,Viasat Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://flussonic.beeonline.az:80/viasatsport/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Russia",Sport 1
+http://185.163.194.185:6987/204/mpegts
+
+#EXTINF:-1 group-title="Russia",Sport 2
+http://185.163.194.185:6987/136/mpegts
 
 #EXTINF:-1 group-title="Russia" ,Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8

@@ -1,14 +1,14 @@
 #EXTM3U tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml, https://7pal.short.gy/alex-epg, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/Plex/all.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://iptvx.one/EPG_LITE "
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg",https://mssg.me/free_sport 
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg",https://mssg.me/free_sport 
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg",https://t.me/Free_TV_sport
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg",https://t.me/Free_TV_sport
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",Более 1000 каналов.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",Более 100 🤣 каналов.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/token=Panda+FreeSport.jpg" group-title="🔺 INFO 🔺",16.07.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",24.07.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -711,76 +711,8 @@ http://195.211.27.149:8887/8234/index.m3u8?token=test
 http://195.211.27.149:8887/8235/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Бокс ТВ
 http://195.211.27.149:8887/8201/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! HD
-http://91.207.115.228:5000/c101
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
-http://91.207.115.228:5000/c102
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
-http://91.207.115.228:5000/c156
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! АРЕНА HD
-http://91.207.115.228:5000/c103
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ИГРА HD
-http://91.207.115.228:5000/c104
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ ПРЕМЬЕР
-http://91.207.115.228:5000/c105
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! СТРАНА HD
-http://91.207.115.228:5000/c106
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
-http://91.207.115.228:5000/c107
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://91.207.115.228:5000/c108
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
-http://91.207.115.228:5000/c112
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
-http://91.207.115.228:5000/c114
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
-http://91.207.115.228:5000/c115
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
-http://91.207.115.228:5000/c116
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-http://91.207.115.228:5000/c153
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
-http://91.207.115.228:5000/c154
-#EXTINF:-1 group-title="Спорткомплекс 🏆",viju+ Sport
-http://91.207.115.228:5000/c113
-#EXTINF:-1 group-title="Спорткомплекс 🏆",VIASAT SPORT HD
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",SETANTA SPORTS
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
-https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Удар HD
-https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Arena
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Live 3
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Insport TEST
-https://bkm.beetv.kz/btv/live/hls/000006983.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Live 1
-https://bkm.beetv.kz/btv/live/hls/000008725.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Live 2
-https://bkm.beetv.kz/btv/live/hls/000008726.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Live 4
-https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Intennis TEST
-https://bkm.beetv.kz/btv/live/hls/000008487.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Inhockey TEST
-https://bkm.beetv.kz/btv/live/hls/000007832.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Qazaqstan HD KZ
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD KZ
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD KZ
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Q League
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+
+
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
@@ -795,44 +727,7 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.com
-http://46.8.29.51:2020/channel/779c817c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! СТРАНА
-http://46.8.29.51:2020/channel/n554ea449/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ИГРА HD
-http://46.8.29.51:2020/channel/n4a461922/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
-http://46.8.29.51:2020/channel/n7376c50f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! АРЕНА HD
-http://46.8.29.51:2020/channel/61e61397/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://46.8.29.51:2020/channel/n16f0f8fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",БОКС ТВ
-http://46.8.29.51:2020/channel/n14c7813f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф HD
-http://46.8.29.51:2020/channel/32d55d61/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",СТАРТ HD
-http://46.8.29.51:2020/channel/n41d8955a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Большой эфир
-http://46.8.29.51:2020/channel/74b01555/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Спортивный
-http://46.8.29.51:2020/channel/57179f4a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Хоккейный
-http://46.8.29.51:2020/channel/n6e6bc50d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбольный
-http://46.8.29.51:2020/channel/46f9f05/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Игра
-http://46.8.29.51:2020/channel/4b9b7d46/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Сила
-http://46.8.29.51:2020/channel/4b9fa6c7/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Поединок
-http://46.8.29.51:2020/channel/n8155f26/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://46.8.29.51:2020/channel/nd0c568d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://46.8.29.51:2020/channel/n26e8b5cc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Russian Extreme
-http://46.8.29.51:2020/channel/n6290c2fc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Russian Extreme
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.postimg.cc/0QNSJg8M/1.jpg",Старт Триумф
@@ -863,8 +758,6 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
 http://94.230.240.17:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051" ,Матч HD
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
@@ -872,7 +765,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт HD
 http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт HD
-http://158.101.194.132:8080/channel/79f180dd/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+http://158.101.194.132:8080/channel/509e6197/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,СТАРТ HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing

@@ -3938,3 +3938,12 @@ http://offshore.lat:8080/play/yvv4cF-gIRRQwdX1jNW1npPiZVbg1cLEbxt8Ibkf0v3lRVf6tz
 http://offshore.lat:8080/play/yvv4cF-gIRRQwdX1jNW1nuCsGd2m4NzfNA6ig0ljYTjh7jU4z6WXqJ0tBmHI8inR/ts
 #EXTINF:-1,ES | Movistar La Liga 1 *
 http://offshore.lat:8080/play/yvv4cF-gIRRQwdX1jNW1noDtoEaT0gdvJL89-QsGy1vG8PbT3Px_zHYGHEV_uOUi/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HB | TIGO SPORTS OP01" tvg-logo="http://lista.lamtv.site:80/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" ,HB | TIGO SPORTS OP01
+http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/89070
+#EXTINF:-1 tvg-id="" tvg-name="HN | DEPORTES TVC HONDURAS OP01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" ,HN | DEPORTES TVC HONDURAS OP01
+http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/89071
+#EXTINF:-1 tvg-id="" tvg-name="HN | DEPORTES TVC HONDURAS OP02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" ,HN | DEPORTES TVC HONDURAS OP02
+http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/89072
+#EXTINF:-1 tvg-id="" tvg-name="HN | DEPORTES TVC HONDURAS OP03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es",HN | DEPORTES TVC HONDURAS OP03
+http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/89073

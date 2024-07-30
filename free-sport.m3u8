@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",29.07.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",30.07.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -3426,3 +3426,51 @@ http://158.69.52.98:25461/ALEX5/NUNEZ5/14211
 http://158.69.52.98:25461/ALEX5/NUNEZ5/14208
 #EXTINF:-1 tvg-id="" tvg-name="✰ LIGA 1 HD ⚽⚽⚽ " tvg-logo="https://liga2peru.carrd.co/assets/images/image01.jpg?v98201726126851" group-title="LATINO ",✰ LIGA 1 HD ⚽⚽⚽ 
 http://158.69.52.98:25461/ALEX5/NUNEZ5/14363
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 1 HD
+http://468169803750780839.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780839.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 2 HD
+http://468169803750780840.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780840.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 3 HD
+http://468169803750780841.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780841.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 4 HD
+http://468169803750780842.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780842.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 5 HD
+http://468169803750780843.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780843.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 1 SD
+http://468169803750780844.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780844.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 2 SD
+http://468169803750780845.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780845.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 3 SD
+http://468169803750780846.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780846.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 4 SD
+http://468169803750780847.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780847.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORT 5 SD
+http://468169803750780848.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780848.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORTS 1 HEVC
+http://468169803750780849.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780849.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORTS 2 HEVC
+http://468169803750780850.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780850.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORTS 3 HEVC
+http://468169803750780851.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780851.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 Hevc" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORTS 4 Hevc
+http://468169803750780852.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 Hevc" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="SSC SPORT",SSC SPORTS 5 Hevc
+http://468169803750780853.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780853.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 1" tvg-logo="https://i.ibb.co/LnPRRs8/Asset-8-18x.png" group-title="SSC SPORT",SSC-EXTRA 1
+http://468169803750780854.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780854.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 2" tvg-logo="https://i.ibb.co/8gjr2cC/Asset-2-18x.png" group-title="SSC SPORT",SSC-EXTRA 2
+http://468169803750780855.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780855.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 3" tvg-logo="https://i.ibb.co/r4XWPYt/Asset-1-18x.png" group-title="SSC SPORT",SSC-EXTRA 3
+http://468169803750780856.ofkd0722.xyz:80/live/LJHMPJBUH5/PAS46SmCqeS/780856.ts
+
+
+
+

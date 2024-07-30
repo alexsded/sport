@@ -53,7 +53,7 @@ https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqupMzKooyWf-pP9P52l5itk/m3u8
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqrAesmfe9y2xerZGVIBaTc8/m3u8
 #EXTINF:-1 xui-id="2228876" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqoHK42j6Mb2oW6JxYoDpLXE/m3u8
-#EXTINF:-1 xui-id="10924" tvg-id="" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica
+#EXTINF:-1 xui-id="10924" tvg-id="" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="PPV | Juegos Olimpicos 2024",D| Claro Sports Latinoamerica
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqspfzQL-TV6maQ2TvjJF4-M/m3u8
 #EXTINF:-1 xui-id="202070" tvg-id="" tvg-name="D | Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="PPV | Juegos Olimpicos 2024",D | Claro Sports Latinoamerica HD
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqvuDrfQHj3WPeSBmzZvqE4A/m3u8
@@ -1535,15 +1535,15 @@ https://6oclock.xyz:8443/TinaT/golf545303/15978
 https://6oclock.xyz:8443/TinaT/golf545303/15888
 #EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL NETWORK HD (US)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/nhl_network_2012.png?itok=pKsy4ksY" group-title="SPORTS BOX",NHL NETWORK HD (US)
 https://6oclock.xyz:8443/TinaT/golf545303/15889
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="SPORTS BOX",TSN 1 HD (CA)
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="Sports",TSN 1 HD (CA)
 https://6oclock.xyz:8443/TinaT/golf545303/21006
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="SPORTS BOX",TSN 2 HD (CA)
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="Sports",TSN 2 HD (CA)
 https://6oclock.xyz:8443/TinaT/golf545303/21005
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="SPORTS BOX",TSN 3 HD (CA)
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="Sports",TSN 3 HD (CA)
 https://6oclock.xyz:8443/TinaT/golf545303/21004
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="SPORTS BOX",TSN 4 HD (CA)
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="Sports",TSN 4 HD (CA)
 https://6oclock.xyz:8443/TinaT/golf545303/21003
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="SPORTS BOX",TSN 5 HD (CA)
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD (CA)" tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="Sports",TSN 5 HD (CA)
 https://6oclock.xyz:8443/TinaT/golf545303/21002
 
 
@@ -2061,20 +2061,6 @@ https://7pal.short.gy/msgusa
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports", USA:ESPN-HD
 https://7pal.short.gy/espnus
-#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UEFA_EURO_2024",EURO2024-BBC_One
-https://7pal.short.gy/bbcone
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/deDmbo4.png" group-title="UEFA_EURO_2024",EURO2024-iTV1
-https://7pal.short.gy/itv1en
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max1
-https://7pal.short.gy/binmax1
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max2
-https://7pal.short.gy/binmax2
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max3
-https://7pal.short.gy/binmax3
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="UEFA_EURO_2024", EURO2024-Supersport_PL-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://i.imgur.com/HsolYfq.png" group-title="UEFA_EURO_2024", EURO2024-TSN1-FHD
-https://7pal.short.gy/tsn1ca
 
 
 
@@ -2094,304 +2080,305 @@ https://7pal.short.gy/tsn1ca
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports News" group-title="Sky Sports",UK FHD : Sky Sports News
+
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports News" group-title="UK",UK FHD : Sky Sports News
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5533&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports News" group-title="Sky Sports",UK HD : Sky Sports News
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports News" group-title="UK",UK HD : Sky Sports News
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5544&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports News" group-title="Sky Sports",UK SD : Sky Sports News
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports News" group-title="UK",UK SD : Sky Sports News
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5555&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Main Event" group-title="Sky Sports",UK FHD : Sky Sports Main Event
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Main Event" group-title="UK",UK FHD : Sky Sports Main Event
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5531&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Main Event" group-title="Sky Sports",UK HD : Sky Sports Main Event
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Main Event" group-title="UK",UK HD : Sky Sports Main Event
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5542&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Main Event" group-title="Sky Sports",UK SD : Sky Sports Main Event
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Main Event" group-title="UK",UK SD : Sky Sports Main Event
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5553&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Football" group-title="Sky Sports",UK FHD : Sky Sports Football
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Football" group-title="UK",UK FHD : Sky Sports Football
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5529&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Football" group-title="Sky Sports",UK HD : Sky Sports Football
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Football" group-title="UK",UK HD : Sky Sports Football
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5540&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Football" group-title="Sky Sports",UK SD : Sky Sports Football
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Football" group-title="UK",UK SD : Sky Sports Football
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5551&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Prem L" group-title="Sky Sports",UK FHD : Sky Sports Prem L
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Prem L" group-title="UK",UK FHD : Sky Sports Prem L
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5535&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Prem L" group-title="Sky Sports",UK HD : Sky Sports Prem L
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Prem L" group-title="UK",UK HD : Sky Sports Prem L
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5546&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Prem L" group-title="Sky Sports",UK SD : Sky Sports Prem L
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Prem L" group-title="UK",UK SD : Sky Sports Prem L
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5557&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Arena" group-title="Sky Sports",UK FHD : Sky Sports Arena
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Arena" group-title="UK",UK FHD : Sky Sports Arena
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5526&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Arena" group-title="Sky Sports",UK HD : Sky Sports Arena
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Arena" group-title="UK",UK HD : Sky Sports Arena
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5537&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Arena" group-title="Sky Sports",UK SD : Sky Sports Arena
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Arena" group-title="UK",UK SD : Sky Sports Arena
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5548&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Cricket" group-title="Sky Sports",UK FHD : Sky Sports Cricket
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Cricket" group-title="UK",UK FHD : Sky Sports Cricket
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5527&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Cricket" group-title="Sky Sports",UK HD : Sky Sports Cricket
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Cricket" group-title="UK",UK HD : Sky Sports Cricket
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5538&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Cricket" group-title="Sky Sports",UK SD : Sky Sports Cricket
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Cricket" group-title="UK",UK SD : Sky Sports Cricket
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5549&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports F1" group-title="Sky Sports",UK FHD : Sky Sports F1
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports F1" group-title="UK",UK FHD : Sky Sports F1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5528&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports F1" group-title="Sky Sports",UK HD : Sky Sports F1
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports F1" group-title="UK",UK HD : Sky Sports F1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5539&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports F1" group-title="Sky Sports",UK SD : Sky Sports F1
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports F1" group-title="UK",UK SD : Sky Sports F1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5550&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Golf" group-title="Sky Sports",UK FHD : Sky Sports Golf
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Golf" group-title="UK",UK FHD : Sky Sports Golf
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5530&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Golf" group-title="Sky Sports",UK HD : Sky Sports Golf
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Golf" group-title="UK",UK HD : Sky Sports Golf
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5541&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Golf" group-title="Sky Sports",UK SD : Sky Sports Golf
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Golf" group-title="UK",UK SD : Sky Sports Golf
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5552&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Mix" group-title="Sky Sports",UK FHD : Sky Sports Mix
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Mix" group-title="UK",UK FHD : Sky Sports Mix
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5532&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Mix" group-title="Sky Sports",UK HD : Sky Sports Mix
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Mix" group-title="UK",UK HD : Sky Sports Mix
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5543&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Mix" group-title="Sky Sports",UK SD : Sky Sports Mix
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Mix" group-title="UK",UK SD : Sky Sports Mix
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5554&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Action" group-title="Sky Sports",UK FHD : Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Action" group-title="UK",UK FHD : Sky Sports Action
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5534&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Action" group-title="Sky Sports",UK HD : Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Action" group-title="UK",UK HD : Sky Sports Action
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5545&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Action" group-title="Sky Sports",UK SD : Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Action" group-title="UK",UK SD : Sky Sports Action
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5556&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Racing" group-title="Sky Sports",UK FHD : Sky Sports Racing
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Racing" group-title="UK",UK FHD : Sky Sports Racing
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5536&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Racing" group-title="Sky Sports",UK HD : Sky Sports Racing
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Racing" group-title="UK",UK HD : Sky Sports Racing
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5547&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Racing" group-title="Sky Sports",UK SD : Sky Sports Racing
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Racing" group-title="UK",UK SD : Sky Sports Racing
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5558&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports NFL" group-title="Sky Sports",UK FHD : Sky Sports NFL
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports NFL" group-title="UK",UK FHD : Sky Sports NFL
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997322&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports NFL" group-title="Sky Sports",UK HD : Sky Sports NFL
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports NFL" group-title="UK",UK HD : Sky Sports NFL
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997323&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports NFL" group-title="Sky Sports",UK SD : Sky Sports NFL
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports NFL" group-title="UK",UK SD : Sky Sports NFL
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=997324&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Tennis" group-title="Sky Sports",UK FHD : Sky Sports Tennis
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Sky Sports Tennis" group-title="UK",UK FHD : Sky Sports Tennis
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086937&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Tennis" group-title="Sky Sports",UK HD : Sky Sports Tennis
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : Sky Sports Tennis" group-title="UK",UK HD : Sky Sports Tennis
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086968&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Tennis" group-title="Sky Sports",UK SD : Sky Sports Tennis
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : Sky Sports Tennis" group-title="UK",UK SD : Sky Sports Tennis
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=1086969&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1" group-title="TNT Sports",UK FHD : TNT Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1" group-title="UK",UK FHD : TNT Sports 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4445&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 1" group-title="TNT Sports",UK HD : TNT Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 1" group-title="UK",UK HD : TNT Sports 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4449&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 1" group-title="TNT Sports",UK SD : TNT Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 1" group-title="UK",UK SD : TNT Sports 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4453&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2" group-title="TNT Sports",UK FHD : TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2" group-title="UK",UK FHD : TNT Sports 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4446&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 2" group-title="TNT Sports",UK HD : TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 2" group-title="UK",UK HD : TNT Sports 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4450&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 2" group-title="TNT Sports",UK SD : TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 2" group-title="UK",UK SD : TNT Sports 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4454&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3" group-title="TNT Sports",UK FHD : TNT Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3" group-title="UK",UK FHD : TNT Sports 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4447&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 3" group-title="TNT Sports",UK HD : TNT Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 3" group-title="UK",UK HD : TNT Sports 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4451&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 3" group-title="TNT Sports",UK SD : TNT Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 3" group-title="UK",UK SD : TNT Sports 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4455&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4" group-title="TNT Sports",UK FHD : TNT Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4" group-title="UK",UK FHD : TNT Sports 4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4448&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 4" group-title="TNT Sports",UK HD : TNT Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sports 4" group-title="UK",UK HD : TNT Sports 4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4452&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 4" group-title="TNT Sports",UK SD : TNT Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sports 4" group-title="UK",UK SD : TNT Sports 4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4456&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 5" group-title="TNT Sports",UK HD : TNT Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 5" group-title="UK",UK HD : TNT Sport 5
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4462&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 6" group-title="TNT Sports",UK HD : TNT Sport 6
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 6" group-title="UK",UK HD : TNT Sport 6
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4463&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 7" group-title="TNT Sports",UK HD : TNT Sport 7
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 7" group-title="UK",UK HD : TNT Sport 7
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4464&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 8" group-title="TNT Sports",UK HD : TNT Sport 8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 8" group-title="UK",UK HD : TNT Sport 8
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4465&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 9" group-title="TNT Sports",UK HD : TNT Sport 9
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 9" group-title="UK",UK HD : TNT Sport 9
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4466&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 10" group-title="TNT Sports",UK HD : TNT Sport 10
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : TNT Sport 10" group-title="UK",UK HD : TNT Sport 10
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4467&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 1 (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 1 (50 FPS)" group-title="UK",UK FHD : TNT Sports 1 (50 FPS)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4457&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 2 (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 2 (50 FPS)" group-title="UK",UK FHD : TNT Sports 2 (50 FPS)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4458&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 3 (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 3 (50 FPS)" group-title="UK",UK FHD : TNT Sports 3 (50 FPS)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4459&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4 (50 FPS)" group-title="TNT Sports",UK FHD : TNT Sports 4 (50 FPS)
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : TNT Sports 4 (50 FPS)" group-title="UK",UK FHD : TNT Sports 4 (50 FPS)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=4461&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 1 SD" group-title="Red Button",UK SD : SkySports Red Button 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 1 SD" group-title="UK",UK SD : SkySports Red Button 1 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573431&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 2 SD" group-title="Red Button",UK SD : SkySports Red Button 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 2 SD" group-title="UK",UK SD : SkySports Red Button 2 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573430&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 3 SD" group-title="Red Button",UK SD : SkySports Red Button 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 3 SD" group-title="UK",UK SD : SkySports Red Button 3 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573429&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 4 SD" group-title="Red Button",UK SD : SkySports Red Button 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 4 SD" group-title="UK",UK SD : SkySports Red Button 4 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573428&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 5 SD" group-title="Red Button",UK SD : SkySports Red Button 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 5 SD" group-title="UK",UK SD : SkySports Red Button 5 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573427&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 6 SD" group-title="Red Button",UK SD : SkySports Red Button 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 6 SD" group-title="UK",UK SD : SkySports Red Button 6 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573426&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 7 SD" group-title="Red Button",UK SD : SkySports Red Button 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 7 SD" group-title="UK",UK SD : SkySports Red Button 7 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573425&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 8 SD" group-title="Red Button",UK SD : SkySports Red Button 8 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 8 SD" group-title="UK",UK SD : SkySports Red Button 8 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573424&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 9 SD" group-title="Red Button",UK SD : SkySports Red Button 9 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 9 SD" group-title="UK",UK SD : SkySports Red Button 9 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573423&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 10 SD" group-title="Red Button",UK SD : SkySports Red Button 10 SD
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : SkySports Red Button 10 SD" group-title="UK",UK SD : SkySports Red Button 10 SD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=573422&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : LFC TV" group-title="Premier League",UK FHD : LFC TV
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : LFC TV" group-title="UK",UK FHD : LFC TV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5090&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK HD : LFC TV" group-title="Premier League",UK HD : LFC TV
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : LFC TV" group-title="UK",UK HD : LFC TV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=231672&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : MUTV" group-title="Premier League",UK FHD : MUTV
+#EXTINF:-1 tvg-id="" tvg-name="UK FHD : MUTV" group-title="UK",UK FHD : MUTV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5095&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : MUTV" group-title="Premier League",UK SD : MUTV
+#EXTINF:-1 tvg-id="" tvg-name="UK SD : MUTV" group-title="UK",UK SD : MUTV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=5399&extension=ts

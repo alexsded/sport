@@ -28,13 +28,23 @@ http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Panda
 https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",Eurosport 1 HD
-http://194.26.229.213/eurosport1_mult/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",Love Nature
-http://194.26.229.213/Lovenature/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",ss_euro2024
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
+http://194.26.229.213/Lovenature/video.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/svbd24xp/olympics-1.png" group-title="Live/Channel",ss 1 olimp
+http://194.26.229.213/ss_1olimp/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/vp5eut4l/olympics-2.png" group-title="Live/Channel",ss 2 olimp
+http://194.26.229.213/ss_2olimp/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/qpoifrkb/olympics-3.png" group-title="Live/Channel",ss 3 olimp
+http://194.26.229.213/ss_3olimp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",ss_olimp
 http://194.26.229.213/ss_euro2024/index.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
 
 
 

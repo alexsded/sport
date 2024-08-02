@@ -8,9 +8,10 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",01.08.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",02.08.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_the_Russian_Airborne_Troops.svg/420px-Flag_of_the_Russian_Airborne_Troops.svg.png" group-title="🔺 INFO 🔺", С праздником!!!
+http://194.26.229.213/2_avgusta/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live1" group-title="Live/Channel",SportCast Live 1
@@ -51,55 +52,56 @@ http://194.26.229.213/ss_euro2024/index.m3u8
 
 
 
-#EXTINF:-1 xui-id="2228870" tvg-id="" tvg-name="Olimpicos de 4AM a 3PM | 10PM Resumen Olympics" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",Olimpicos de 4AM a 3PM | 10PM Resumen Olympics
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqjs0Y9wNfLuLKvkAr68CxCA/m3u8
-#EXTINF:-1 xui-id="2228871" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqtT3kLDG2UoXjrmK4u8G0YM/m3u8
-#EXTINF:-1 xui-id="2228872" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqubniY2DMobGt7gTbMCemkw/m3u8
-#EXTINF:-1 xui-id="2228873" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqnnbBIBGAvQrDeuAsDisLtc/m3u8
-#EXTINF:-1 xui-id="2228874" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqupMzKooyWf-pP9P52l5itk/m3u8
-#EXTINF:-1 xui-id="2228875" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqrAesmfe9y2xerZGVIBaTc8/m3u8
-#EXTINF:-1 xui-id="2228876" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="PPV | Juegos Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqoHK42j6Mb2oW6JxYoDpLXE/m3u8
-#EXTINF:-1 xui-id="10924" tvg-id="" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="PPV | Juegos Olimpicos 2024",D| Claro Sports Latinoamerica
+
+#EXTINF:-1 xui-id="2229565" tvg-id="" tvg-name="Olimpicos 24x7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",Olimpicos 24x7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthXpPsmS_MBufqWoCL1MHm5k
+#EXTINF:-1 xui-id="2229566" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthUdsoEpYqgA8FoK3FWdvvms
+#EXTINF:-1 xui-id="2229567" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthVh1O-lP8ORiy33RSCUG32c
+#EXTINF:-1 xui-id="2229568" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthZtVC1C_XuNfgZiz3CKJRbI
+#EXTINF:-1 xui-id="2229569" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthXOU9FcOW8s_rinp8pxS8-o
+#EXTINF:-1 xui-id="2229570" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthaKdhQ61CgsJG5rF8i7NUjs
+#EXTINF:-1 xui-id="2229571" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
+https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthYpCq16hk2xny6iHNdxpXYk
+#EXTINF:-1 xui-id="10924" tvg-id="" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="Olimpicos 2024",D| Claro Sports Latinoamerica
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqspfzQL-TV6maQ2TvjJF4-M/m3u8
-#EXTINF:-1 xui-id="202070" tvg-id="" tvg-name="D | Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="PPV | Juegos Olimpicos 2024",D | Claro Sports Latinoamerica HD
+#EXTINF:-1 xui-id="202070" tvg-id="" tvg-name="D | Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="Olimpicos 2024",D | Claro Sports Latinoamerica HD
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqvuDrfQHj3WPeSBmzZvqE4A/m3u8
-#EXTINF:-1 xui-id="218209" tvg-id="" tvg-name="GT: Claro Sports HD" tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="PPV | Juegos Olimpicos 2024",GT: Claro Sports HD
+#EXTINF:-1 xui-id="218209" tvg-id="" tvg-name="GT: Claro Sports HD" tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="Olimpicos 2024",GT: Claro Sports HD
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqokMqn51-DvNdcBh8JlXbOE/m3u8
-#EXTINF:-1 xui-id="2228075" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 1 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 1 | México
+#EXTINF:-1 xui-id="2228075" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 1 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 1 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqi1SDkKgmc-q1ZLKITzavC8/m3u8
-#EXTINF:-1 xui-id="2228076" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 2 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 2 | México
+#EXTINF:-1 xui-id="2228076" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 2 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 2 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqq5Ma5Q3qbEfqCXmoJUM0QU/m3u8
-#EXTINF:-1 xui-id="2228077" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 3 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 3 | México
+#EXTINF:-1 xui-id="2228077" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 3 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 3 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqn_-mRe3-PnsjMXicXVuOOI/m3u8
-#EXTINF:-1 xui-id="2228082" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 4 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 4 | México
+#EXTINF:-1 xui-id="2228082" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Claro Sports 4 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Claro Sports 4 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqtbRxpFkCDXYm2DEszAMssY/m3u8
-#EXTINF:-1 xui-id="2228084" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 |  Nu9ve | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 |  Nu9ve | México
+#EXTINF:-1 xui-id="2228084" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 |  Nu9ve | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 |  Nu9ve | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqnk1vZ14GU0RyRqvk0vdnyg/m3u8
-#EXTINF:-1 xui-id="2228085" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | U5A | USA" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | U5A | USA
+#EXTINF:-1 xui-id="2228085" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | U5A | USA" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | U5A | USA
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqqnInhv_2MpVozEv2LQGCdg/m3u8
-#EXTINF:-1 xui-id="2228305" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Azteca 7 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Azteca 7 | México
+#EXTINF:-1 xui-id="2228305" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Azteca 7 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Azteca 7 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqiszsI5s7OEo-gZHwAhm1eA/m3u8
-#EXTINF:-1 xui-id="2228308" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Canal 5 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | Canal 5 | México
+#EXTINF:-1 xui-id="2228308" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | Canal 5 | México" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | Canal 5 | México
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqje1BPw0niUSIT2_TeAjjmc/m3u8
-#EXTINF:-1 xui-id="2228506" tvg-id="" tvg-name="PPV | Leagues Cup | Event 1" tvg-logo="http://51.222.152.107:81/posters/1659502657147.png" group-title="PPV | Juegos Olimpicos 2024",PPV | Leagues Cup | Event 1
+#EXTINF:-1 xui-id="2228506" tvg-id="" tvg-name="PPV | Leagues Cup | Event 1" tvg-logo="http://51.222.152.107:81/posters/1659502657147.png" group-title="Olimpicos 2024",PPV | Leagues Cup | Event 1
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqnmZYa-x07Ol7SsJgcdkgkA/m3u8
-#EXTINF:-1 xui-id="2228635" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | RCN | Colombia" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | RCN | Colombia
+#EXTINF:-1 xui-id="2228635" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | RCN | Colombia" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | RCN | Colombia
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqvsrq4j7Br5pI0Z1aKRuGeA/m3u8
-#EXTINF:-1 xui-id="2228636" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | NBC Universo | USA" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | NBC Universo | USA
+#EXTINF:-1 xui-id="2228636" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | NBC Universo | USA" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | NBC Universo | USA
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqteLAEhCcZFewLxDedD508s/m3u8
-#EXTINF:-1 xui-id="2228854" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 08:45 | Archery" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 08:45 | Archery
+#EXTINF:-1 xui-id="2228854" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 08:45 | Archery" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 08:45 | Archery
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqk8AOGOs_F3kyX7IqfJcZ04/m3u8
-#EXTINF:-1 xui-id="2228855" tvg-id="" tvg-name="Futbol Amistoso | 29/Jul | 10:00 | Al Hilal vs Como" tvg-logo="http://51.222.152.107:81/posters/1648299052308.jpg" group-title="PPV | Juegos Olimpicos 2024",Futbol Amistoso | 29/Jul | 10:00 | Al Hilal vs Como
+#EXTINF:-1 xui-id="2228855" tvg-id="" tvg-name="Futbol Amistoso | 29/Jul | 10:00 | Al Hilal vs Como" tvg-logo="http://51.222.152.107:81/posters/1648299052308.jpg" group-title="Olimpicos 2024",Futbol Amistoso | 29/Jul | 10:00 | Al Hilal vs Como
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqkJ0DoPIlFhFuRxyoGRO1nY/m3u8
-#EXTINF:-1 xui-id="2228856" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 12:30 | Swimming" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 12:30 | Swimming
+#EXTINF:-1 xui-id="2228856" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 12:30 | Swimming" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 12:30 | Swimming
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqmUh5IJntxypkrE__D2R9S4/m3u8
-#EXTINF:-1 xui-id="2228857" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 13:00 | Japan VS USA | Basketball" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="PPV | Juegos Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 13:00 | Japan VS USA | Basketball
+#EXTINF:-1 xui-id="2228857" tvg-id="" tvg-name="Juegos Olímpicos de París 2024 | 29/Jul | 13:00 | Japan VS USA | Basketball" tvg-logo="http://51.222.152.107:81/posters/1721799665511.jpg" group-title="Olimpicos 2024",Juegos Olímpicos de París 2024 | 29/Jul | 13:00 | Japan VS USA | Basketball
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqqMfhwpVXCocbkrVlJpBCgg/m3u8
 
 

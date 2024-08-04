@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",03.08.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",04.08.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -52,20 +52,6 @@ http://194.26.229.213/ss_euro2024/index.m3u8
 
 
 
-#EXTINF:-1 xui-id="2229565" tvg-id="" tvg-name="Olimpicos 24x7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",Olimpicos 24x7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthXpPsmS_MBufqWoCL1MHm5k
-#EXTINF:-1 xui-id="2229566" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthUdsoEpYqgA8FoK3FWdvvms
-#EXTINF:-1 xui-id="2229567" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthVh1O-lP8ORiy33RSCUG32c
-#EXTINF:-1 xui-id="2229568" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthZtVC1C_XuNfgZiz3CKJRbI
-#EXTINF:-1 xui-id="2229569" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthXOU9FcOW8s_rinp8pxS8-o
-#EXTINF:-1 xui-id="2229570" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthaKdhQ61CgsJG5rF8i7NUjs
-#EXTINF:-1 xui-id="2229571" tvg-id="" tvg-name="OLYMPICS 24X7" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="Olimpicos 2024",OLYMPICS 24X7
-https://sdmx.vip:443/play/VgIVslUyr-akUE7Ca5WthYpCq16hk2xny6iHNdxpXYk
 #EXTINF:-1 xui-id="10924" tvg-id="" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="Olimpicos 2024",D| Claro Sports Latinoamerica
 https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqspfzQL-TV6maQ2TvjJF4-M/m3u8
 #EXTINF:-1 xui-id="202070" tvg-id="" tvg-name="D | Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="Olimpicos 2024",D | Claro Sports Latinoamerica HD
@@ -175,85 +161,6 @@ http://194.26.229.213/Prokop-TV-Music/video.m3u8?token=Panda
 
 
 
-#EXTINF:-1,ONTIME SPORTS
-http://149.62.177.103:8000/play/a08g
-#EXTINF:-1,ONTIME SPORTS HD
-http://149.62.177.103:8000/play/a08d
-#EXTINF:-1,ONTIME SPORTS2
-http://149.62.177.103:8000/play/a08e
-#EXTINF:-1,ONTIME SPORTS2 HD
-http://149.62.177.103:8000/play/a08b
-#EXTINF:-1,OMAN TV Sport HD
-http://149.62.177.103:8000/play/a02k
-#EXTINF:-1,Sharjah Sport HD
-http://149.62.177.103:8000/play/a04i
-#EXTINF:-1,Sharjah Sport SD
-http://149.62.177.103:8000/play/a04j
-#EXTINF:-1,YAS Sports HD
-http://149.62.177.103:8000/play/a088
-#EXTINF:-1,Kuwait Sport Plus
-http://149.62.177.103:8000/play/a007
-#EXTINF:-1,Kuwait Sports
-http://149.62.177.103:8000/play/a006
-#EXTINF:-1,KSA SPORTS 1 HD
-http://149.62.177.103:8000/play/a051
-#EXTINF:-1,KSA SPORTS 2 HD
-http://149.62.177.103:8000/play/a052
-#EXTINF:-1,KSA SPORTS 3 HD
-http://149.62.177.103:8000/play/a053
-#EXTINF:-1,AD Sport 1 HD
-http://149.62.177.103:8000/play/a086
-#EXTINF:-1,AD Sport 2 HD
-http://149.62.177.103:8000/play/a087
-#EXTINF:-1,AS - ASTRO Cricket
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66506
-#EXTINF:-1,Now Premier Sports 1
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
-#EXTINF:-1,Now Premier Sports 2
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
-#EXTINF:-1,Now Premier Sports 3
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
-#EXTINF:-1,Now Premier Sports 4
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
-#EXTINF:-1,Now Premier Sports 5
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
-#EXTINF:-1,Now Premier Sports 6
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69859
-#EXTINF:-1,Now Premier Sports 7
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69860
-#EXTINF:-1,Now Premier Sports 8
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69861
-#EXTINF:-1,EPL - Astro - EPL 1
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63112
-#EXTINF:-1,EPL - Astro - Epl 2
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
-#EXTINF:-1,EPL - Astro - EPL 3
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
-#EXTINF:-1,EPL - Astro -EPL 4
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63598
-#EXTINF:-1,UK - SPFL LOCAL-CELTIC TV
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/60928
-#EXTINF:-1,AF - Supersport Blitz
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/60940
-#EXTINF:-1,AF - SuperSport Play | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68948
-#EXTINF:-1,AF - SuperSport Cricket | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68949
-#EXTINF:-1,AF - SuperSport Grandstand | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68950
-#EXTINF:-1,AF - SuperSport PSL | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68951
-#EXTINF:-1,AF - SuperSport Premier League | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68952
-#EXTINF:-1,AF - SuperSport La Liga | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68953
-#EXTINF:-1,AF - SuperSport Football | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68954
-#EXTINF:-1,AF - SuperSport Action | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68955
-#EXTINF:-1,AF - SuperSport Rugby | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68956
-#EXTINF:-1,NBA TV (US)
 #EXTINF:-1,NBA TV (US)
 https://6oclock.xyz:8443/rock0809/Jlo6914/12722
 #EXTINF:-1,WWE HD (US)
@@ -488,19 +395,15 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-1 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-2 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-3 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-4 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-5 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-6 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/300px-SuperSport_Albania.svg.png",SS-7 HD
+
+
+
 
 
 
@@ -517,7 +420,6 @@ http://194.26.229.213/khl_prime/index.m3u8?token=Panda
 
 #EXTINF:-1 tvg-name="NHL (Интересные моменты)" tvg-logo="https://i.ibb.co/tx0pVRM/image-50.png" group-title="Russia", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="CHD-TV" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
@@ -808,10 +710,6 @@ http://94.230.240.17:8080/machtv/index.m3u8
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт HD
-http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Окко Спорт HD
-http://158.101.194.132:8080/channel/509e6197/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,СТАРТ HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing
@@ -1081,24 +979,16 @@ https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 
 
 
-#EXTINF:-1 ,ESPN
-http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 ,World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (int)
-http://194.26.229.213/TUDN_Nba-Tv/index.m3u8
-
 #EXTINF:-1 ,RTV San Marino Sport HD
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-
 
 #EXTINF:-1 ,Sports TV Turkey
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:0 ,ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 
 
@@ -1431,9 +1321,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="TRSport.it",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GolfNetwork.jp",Golf Network (720p)
-http://203.162.235.41:28107
-
 #EXTINF:-1 tvg-id="GAORASPORTS.jp",Gaora Sports (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
@@ -1442,9 +1329,6 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="OmanSportsTV.om",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SSC1HD.sa",SSC 1 (720p)
-https://af.ayassport.ir/hls2/ssc1.m3u8
 
 
 
@@ -3964,192 +3848,7 @@ http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/89073
 
 
 
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/192" tvg-id="0b3909dda9e2d7ddad5a05f9d93b6835" tvg-chno="1",DIGI Sport 1
-http://79.114.136.118:9981/stream/channelid/1560885515?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/145" tvg-id="805580c7e6039537af8f4ae1f3b65e0b" tvg-chno="2",DIGI Sport 1 HD
-http://79.114.136.118:9981/stream/channelid/1199592832?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/45" tvg-id="ae93de96a423bb8b3bda60615050ba71" tvg-chno="3",DIGI Sport 2 HD
-http://79.114.136.118:9981/stream/channelid/383685550?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/239" tvg-id="44840e7a875271967cebdc044742df0e" tvg-chno="4",DIGI Sport 2
-http://79.114.136.118:9981/stream/channelid/2047771716?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/202" tvg-id="91680164d3dd19cd8d2e8843939ac2a2" tvg-chno="5",DIGI Sport 3 HD
-http://79.114.136.118:9981/stream/channelid/1677813905?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/124" tvg-id="363a0d3f09dfc2fb1a89807586618634" tvg-chno="6",DIGI Sport 3
-http://79.114.136.118:9981/stream/channelid/1057831478?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/24" tvg-id="6f178a8ab2ba42e87ba23776d105131d" tvg-chno="7",DIGI Sport 4 HD
-http://79.114.136.118:9981/stream/channelid/176822127?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/228" tvg-id="f9fd2ff5d994bb2e3bd7be46d739b524" tvg-chno="8",DIGI Sport 4
-http://79.114.136.118:9981/stream/channelid/1966079481?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/160" tvg-id="4ab4174d17124bfd0f8c5182fe1a3276" tvg-chno="8",Eurosport HD
-http://79.114.136.118:9981/stream/channelid/1293399114?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/201" tvg-id="861091e23327eafe685d3e02e918773e" tvg-chno="9",Eurosport
-http://79.114.136.118:9981/stream/channelid/1653674118?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/210" tvg-id="4c55ffe61ffa9232adfe59509c1b7e4e" tvg-chno="10",Eurosport 2 HD
-http://79.114.136.118:9981/stream/channelid/1728009548?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/216" tvg-id="bb6d04eaf40d24184ec67c0cbfca2af9" tvg-chno="11",Eurosport 2
-http://79.114.136.118:9981/stream/channelid/1778675131?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/194" tvg-id="36a2585d515dfa7121f7cfb9d07383cf" tvg-chno="12",PRIMA SPORT 1 HD
-http://79.114.136.118:9981/stream/channelid/1566089782?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/113" tvg-id="504023ba8df8f55f26d2064e54035eaf" tvg-chno="13",PRIMA SPORT 1
-http://79.114.136.118:9981/stream/channelid/975388752?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/251" tvg-id="f7f7d87c98d608a3e6796a6f50e3802e" tvg-chno="14",PRIMA SPORT 2 HD
-http://79.114.136.118:9981/stream/channelid/2094594039?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/3" tvg-id="4907e882058654a24599b4ce92ea0f98" tvg-chno="15",PRIMA SPORT 2
-http://79.114.136.118:9981/stream/channelid/48760649?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/206" tvg-id="89801fe5b2c848b5531b3d95b9172721" tvg-chno="16",PRIMA SPORT 3 HD
-http://79.114.136.118:9981/stream/channelid/1696563337?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/80" tvg-id="4effe82714b81d4fc3322cbb89052373" tvg-chno="17",PRIMA SPORT 3
-http://79.114.136.118:9981/stream/channelid/669581134?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/1" tvg-id="cbe0208208b7d6d0ea107a1167e73099" tvg-chno="18",Sportextra HD
-http://79.114.136.118:9981/stream/channelid/35709131?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/29" tvg-id="3525a28e27cf3f53e51c5d24604d73f0" tvg-chno="19",PRO ARENA HD
-http://79.114.136.118:9981/stream/channelid/245507381?profile=pass
-#EXTINF:-1 tvg-logo="http://79.114.136.118:9981/imagecache/111" tvg-id="9fce333872e1c4e540559193c8a62b9b" tvg-chno="20",PRO ARENA
-http://79.114.136.118:9981/stream/channelid/942919327?profile=pass
-#EXTINF:-1 tvg-id="28c4ebcf30c4961ad04b57fca44af803",DIGI Sport 1
-http://79.117.117.121:9981/stream/channelid/1340851240?ticket=21E655385D6E3F3CDB25F607694E13F84E627EA4&profile=pass
-#EXTINF:-1 tvg-id="0847c51d15b41bf21315a8b8e31aa600",DIGI Sport 1 HD RO
-http://79.117.117.121:9981/stream/channelid/499468040?ticket=B9276C42D2D120CBB61ACE9BF3DECF82C4F25204&profile=pass
-#EXTINF:-1 tvg-id="c132ac60713714241c5c0a6ac3742c54",DIGI Sport 2
-http://79.117.117.121:9981/stream/channelid/1621897921?ticket=850104BF8FF821A71D2013C6C1E47621CAC791AE&profile=pass
-#EXTINF:-1 tvg-id="915724d3e1127bd17d56238b79fb3be1",DIGI Sport 2 HD RO
-http://79.117.117.121:9981/stream/channelid/1394890641?ticket=0DAD0D416B9728EB97615714A67619800979D078&profile=pass
-#EXTINF:-1 tvg-id="11e8e8ba904815daeb90dac5bef0ce8b",DIGI Sport 3
-http://79.117.117.121:9981/stream/channelid/988342289?ticket=3AD0F5E7F711C5BA697F8ECF551C0EEB6B91E0B2&profile=pass
-#EXTINF:-1 tvg-id="21672d2a620080d61f399790ac16899a",DIGI Sport 4
-http://79.117.117.121:9981/stream/channelid/707618593?ticket=7C19F57169A4CC8EED7D106F4DD83ED04DD00648&profile=pass
 
-#EXTINF:-1 tvg-id="6304599709af23ba04e6cd1db6b50a1b",Eurosport 1
-http://79.117.117.121:9981/stream/channelid/391709795?ticket=47B71D8068E9E6D65BA7D6FD30BF057097B391EE&profile=pass
-#EXTINF:-1 tvg-id="0aad585bc7c836c27cbb0f204c1b81d5",Eurosport 1 HD
-http://79.117.117.121:9981/stream/channelid/1532538122?ticket=EF244BDA9B89017031FA3A5F3B0F24ED82281D28&profile=pass
-#EXTINF:-1 tvg-id="cafff27e582f1d0f7701e1d3cca8e73c",Eurosport 2 HD
-http://79.117.117.121:9981/stream/channelid/2129854410?ticket=EEE05629532BCC4543051688E5A44CED761E38E3&profile=pass
-#EXTINF:-1 tvg-id="7c8d343781708462dc3a894003c28864",Eurosport 2 HU
-http://79.117.117.121:9981/stream/channelid/926190972?ticket=D9BCB7429D68EE0BA39F270A68D791FCF819B4AA&profile=pass
-#EXTINF:-1 tvg-id="2b88726941e4988dbfd1aeebd67658a0",Eurosport 2 RO
-http://79.117.117.121:9981/stream/channelid/1769113643?ticket=8087635E9143DD43DC078DBE87F72BEC52381B70&profile=pass
-
-#EXTINF:-1 tvg-id="47696113d208398456ed3dcb36aa4dc1",Nova Sport 4 HD
-http://79.117.117.121:9981/stream/channelid/325151047?ticket=2B000E9611677E94C80E32F00866C5B12BC7130A&profile=pass
-#EXTINF:-1 tvg-id="6814ace7cc9889147cdaf923b330e778",Nova Sport 5
-http://79.117.117.121:9981/stream/channelid/1739330664?ticket=8C168E6B2DF320DE73639EADDA03E4365C81B6DF&profile=pass
-#EXTINF:-1 tvg-id="42666a8c9f8cae94ccb67812436b4e37",Nova Sport 6
-http://79.117.117.121:9981/stream/channelid/208299586?ticket=56A7861F68677F79F16B20894D2BBE967F5D9D6C&profile=pass
-#EXTINF:-1 tvg-id="43aa34c1bdb20f0c46d54771ab7cc7d9",PREMIER SPORT 2 SK HD
-http://79.117.117.121:9981/stream/channelid/1093970499?ticket=AE799C1914990C876D39772968E2CBD3A1CB15E2&profile=pass
-#EXTINF:-1 tvg-id="3328f0dbdb14e744e191d8eec6866494",PRIMA SPORT 1
-http://79.117.117.121:9981/stream/channelid/1542465587?ticket=8257390EF134F677C279C741E145FCD09B384D19&profile=pass
-#EXTINF:-1 tvg-id="b5a66e082174ce0abc2c6a40e0a1d73c",PRIMA SPORT 2
-http://79.117.117.121:9981/stream/channelid/141469365?ticket=122E23EF00DCBE7467E4EAFA55F340C2AA7C30AC&profile=pass
-#EXTINF:-1 tvg-id="7728a4b920524c787aba65666da5955a",PRO ARENA
-http://79.117.117.121:9981/stream/channelid/967059575?ticket=47EAF6489B5E5D56DE8D3763DFAFC6DF6FD55F75&profile=pass
-
-#EXTINF:-1 tvg-id="653e22638c078f3442b9978157c4f5b4",SPORT 1
-http://79.117.117.121:9981/stream/channelid/1663188581?ticket=BB8D360113D9030E273BB732200EB21C93A63C8C&profile=pass
-#EXTINF:-1 tvg-id="ee94d447fff0a91ae51dcd934689ce4d",SPORT 2
-http://79.117.117.121:9981/stream/channelid/1205114094?ticket=8DF12B145615E172686CE3B38DFBFC71185D2484&profile=pass
-#EXTINF:-1 tvg-id="a2ad1385891a39bfe5569fa87c6ad792",Sport 2 HD
-http://79.117.117.121:9981/stream/channelid/85175714?ticket=5B90FA4BA8D4447250B4336DF74D5A11B529521A&profile=pass
-
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/213" tvg-id="00f3fdbfbb4f124ed590a8a61f87c252" tvg-chno="3000",NFL Channel
-http://75.88.214.246:9981/stream/channelid/1073607424?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/214" tvg-id="2bb7eaab2e710a51369265aafc2c4638" tvg-chno="3040",PBR RidePass
-http://75.88.214.246:9981/stream/channelid/736802603?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/215" tvg-id="3b1bef4bf67c985c400cd7c8e5816f56" tvg-chno="3041",Team USA TV
-http://75.88.214.246:9981/stream/channelid/1273961275?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/216" tvg-id="3e91134f90889d5da5be0bc27c87caa9" tvg-chno="3050",Pluto TV Sports
-http://75.88.214.246:9981/stream/channelid/1326682430?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/217" tvg-id="755a9fbc0b5c98b05cdc2bf5aa5ef01a" tvg-chno="3060",Fight
-http://75.88.214.246:9981/stream/channelid/1017076341?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/218" tvg-id="26a455367175b4b71320e1a136fcdf7b" tvg-chno="3062",Top Rank Classics
-http://75.88.214.246:9981/stream/channelid/911582246?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/219" tvg-id="656ef65c1cc37c80350a490753f50522" tvg-chno="3064",DAZN Ringside
-http://75.88.214.246:9981/stream/channelid/1559653989?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/220" tvg-id="e310b9a37c94929b018c51f2d2f9f649" tvg-chno="3070",Bellator MMA
-http://75.88.214.246:9981/stream/channelid/599331043?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/221" tvg-id="77e48f0e27aa863908520d1366794963" tvg-chno="3080",PFL MMA
-http://75.88.214.246:9981/stream/channelid/244311159?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/222" tvg-id="84b42f0c94ffd6527ed384a737ceb253" tvg-chno="3100",GLORY Kickboxing
-http://75.88.214.246:9981/stream/channelid/204452996?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/223" tvg-id="209dddcf3579a73eb99919ae0344c029" tvg-chno="3140",PokerGo
-http://75.88.214.246:9981/stream/channelid/1339923744?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/224" tvg-id="d19e8bf0f286c1b128d410acd4d62931" tvg-chno="3142",Triton Poker
-http://75.88.214.246:9981/stream/channelid/1888198353?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/225" tvg-id="f88d439659c7164b11739d0197b9e414" tvg-chno="3160",Formula 1 Channel
-http://75.88.214.246:9981/stream/channelid/373526008?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/226" tvg-id="9635f6a5bf7cb16e1f54d4874daa11e9" tvg-chno="3166",Speed Sport 1
-http://75.88.214.246:9981/stream/channelid/636892566?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/227" tvg-id="38ef33389559e17b0b2a1b2d4d91202a" tvg-chno="3170",Monster Jam
-http://75.88.214.246:9981/stream/channelid/942927672?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/228" tvg-id="c434a1b095415e685386245c536b887c" tvg-chno="3203",FanDuel TV Extra
-http://75.88.214.246:9981/stream/channelid/815871172?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/394" tvg-id="0c3f3acdd103f4a7d65b6e8c2d69a702" tvg-chno="10315",MLB Channel
-http://75.88.214.246:9981/stream/channelid/1295662860?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/395" tvg-id="96c1436b3a0138ffbd10b25558574de7" tvg-chno="10330",CBS Sports HQ
-http://75.88.214.246:9981/stream/channelid/1799602582?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/396" tvg-id="fbb07183ce45dfa2f8fd59df424ecc90" tvg-chno="10338",NBC Sports
-http://75.88.214.246:9981/stream/channelid/57782523?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/397" tvg-id="f10aa3df8e3bb03095a557189150de50" tvg-chno="10358",DraftKings Network
-http://75.88.214.246:9981/stream/channelid/1604520689?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/398" tvg-id="e05a3d07ba493a82c295258bc4cd32a4" tvg-chno="10362",SportsGrid
-http://75.88.214.246:9981/stream/channelid/121461472?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/399" tvg-id="e78621d55b8d557e1b77e6b22a9fe425" tvg-chno="10368",FIFA+
-http://75.88.214.246:9981/stream/channelid/1428260583?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/400" tvg-id="c73fa2a02ff0c3b0f5b4511b3f4aa14d" tvg-chno="10372",beIN SPORTS XTRA
-http://75.88.214.246:9981/stream/channelid/547504071?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/401" tvg-id="479b7cd78ad5732b61c30a5caf393865" tvg-chno="10380",fubo Sports Network
-http://75.88.214.246:9981/stream/channelid/1467784007?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/402" tvg-id="c93868bd2cb2486cba1d1ff7ffad6218" tvg-chno="10384",Stadium
-http://75.88.214.246:9981/stream/channelid/1030240457?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/403" tvg-id="6e32a5cbab46863eddc4b524c058954c" tvg-chno="10388",Unbeaten Sports Channel
-http://75.88.214.246:9981/stream/channelid/1269117550?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/404" tvg-id="1f52e9a9189804deb0892a21afe8f247" tvg-chno="10392",Pac-12 Insider
-http://75.88.214.246:9981/stream/channelid/703156767?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/405" tvg-id="8f4b99ad0f8080228da81e7e50331096" tvg-chno="10396",ACC Digital Network
-http://75.88.214.246:9981/stream/channelid/765021071?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/406" tvg-id="94288a5b7adba1b33566a03d33f88f52" tvg-chno="10400",Origin Sports
-http://75.88.214.246:9981/stream/channelid/1535781012?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/407" tvg-id="aaf30ed93ae52131e91867ef7430f138" tvg-chno="10408",TNA Wrestling
-http://75.88.214.246:9981/stream/channelid/1494152106?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/408" tvg-id="7650a260ada555e2e9fc9a19290a680a" tvg-chno="10424",MSG SportsZone
-http://75.88.214.246:9981/stream/channelid/1621250166?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/409" tvg-id="646f84de4626369aaaaddefba4011361" tvg-chno="10428",People Are Awesome
-http://75.88.214.246:9981/stream/channelid/1585737572?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/410" tvg-id="8317fe7da46484edc6b657fb3dca6673" tvg-chno="10436",PGA Tour
-http://75.88.214.246:9981/stream/channelid/2113804163?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/411" tvg-id="ad90dec74649489e0ef7ddeedc134ab5" tvg-chno="10438",GOLFPASS
-http://75.88.214.246:9981/stream/channelid/1205768365?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/412" tvg-id="5925b8103562dfdf63f10c6db49fed78" tvg-chno="10442",T2
-http://75.88.214.246:9981/stream/channelid/280503641?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/413" tvg-id="fbf1bc7bfb17ad766e7fbab2ede94fe2" tvg-chno="10444",PickleballTV
-http://75.88.214.246:9981/stream/channelid/2075980283?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/414" tvg-id="e4c3b4549321b62073b83577d5d28ed5" tvg-chno="10446",Billiard TV
-http://75.88.214.246:9981/stream/channelid/1421132772?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/415" tvg-id="896f6de2809d63c4bea5b2d72681f740" tvg-chno="10448",World Poker Tour
-http://75.88.214.246:9981/stream/channelid/1651339145?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/416" tvg-id="873998822e9cff55cf886f533ffcf92d" tvg-chno="10480",SURF NOW TV
-http://75.88.214.246:9981/stream/channelid/43530631?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/417" tvg-id="eb849fdaca838aa871a0c21ebe459476" tvg-chno="10485",Outside
-http://75.88.214.246:9981/stream/channelid/1520403691?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/418" tvg-id="4d5a0520bfa6e2478e2f495ce15dbbc3" tvg-chno="10487",Waypoint TV
-http://75.88.214.246:9981/stream/channelid/537221709?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/419" tvg-id="dbf2043edcfb56b70ea7f77439f7e89f" tvg-chno="10489",Pursuit UP
-http://75.88.214.246:9981/stream/channelid/1040511707?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/420" tvg-id="40b979de422c81eb0c4eb382fd8e13d6" tvg-chno="10491",Outdoor America
-http://75.88.214.246:9981/stream/channelid/1585035584?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/421" tvg-id="0edf639697398fec383a7b429459f7dd" tvg-chno="10515",Top Gear
-http://75.88.214.246:9981/stream/channelid/375643918?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/422" tvg-id="e1f1c8333de90f01ebde0e07b65f184f" tvg-chno="10520",Torque
-http://75.88.214.246:9981/stream/channelid/868807137?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/423" tvg-id="7d0626ef1c5e37809b3470780184152d" tvg-chno="10525",MotorTrend FAST TV
-http://75.88.214.246:9981/stream/channelid/1864763005?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/424" tvg-id="404bbea9d1ed78f4dbf27d1c3d67ff0c" tvg-chno="10530",MAVTV Select
-http://75.88.214.246:9981/stream/channelid/700336960?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/425" tvg-id="7b0c96b2ed12740280dea45d8152f988" tvg-chno="10535",POWERNATION
-http://75.88.214.246:9981/stream/channelid/848694395?profile=pass
-#EXTINF:-1 tvg-logo="http://75.88.214.246:9981/imagecache/426" tvg-id="f8a2b2d84464da4e1c0210017d0dbbcb" tvg-chno="10540",NHRA TV
-http://75.88.214.246:9981/stream/channelid/1488102136?profile=pass
 
 #EXTINF:-1,Z SPORTS HD (CL)
 http://tvbross.com:8880/mak-76BAn/baqte9-876baKA/182701

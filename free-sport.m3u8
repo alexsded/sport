@@ -54,42 +54,40 @@ http://194.26.229.213/ss_euro2024/index.m3u8?token=Panda
 
 
 #EXTINF:1 group-title="chd-tv test" tvg-id="Arena Fight.ba" tvg-logo="" , Arena Fight
-http://194.26.229.213/arenafightba/video.m3u8
+http://194.26.229.213/arenafightba/index.m3u8
 
 #EXTINF:2 group-title="chd-tv test" tvg-id="Arena Premium 1.ba" tvg-logo="" , Arena Premium 1
-http://194.26.229.213/arenapremium1ba/video.m3u8
+http://194.26.229.213/arenapremium1ba/index.m3u8
 
 #EXTINF:3 group-title="chd-tv test" tvg-id="Arena Premium 2.ba" tvg-logo="" , Arena Premium 2
-http://194.26.229.213/arenapremium2ba/video.m3u8
+http://194.26.229.213/arenapremium2ba/index.m3u8
 
 #EXTINF:4 group-title="chd-tv test" tvg-id="Arena Premium 3.ba" tvg-logo="" , Arena Premium 3
-http://194.26.229.213/arenapremium3ba/video.m3u8
+http://194.26.229.213/arenapremium3ba/index.m3u8
 
 #EXTINF:5 group-title="chd-tv test" tvg-id="Arena Sport 1.ba" tvg-logo="" , Arena Sport 1
-http://194.26.229.213/arenasport1hdba/video.m3u8
+http://194.26.229.213/arenasport1hdba/index.m3u8
 
 #EXTINF:6 group-title="chd-tv test" tvg-id="Arena sport 1x2.ba" tvg-logo="" , Arena sport 1x2
-http://194.26.229.213/arenasport1x2ba/video.m3u8
+http://194.26.229.213/arenasport1x2ba/index.m3u8
 
 #EXTINF:7 group-title="chd-tv test" tvg-id="Arena Sport 2.ba" tvg-logo="" , Arena Sport 2
-http://194.26.229.213/arenasport2/video.m3u8
+http://194.26.229.213/arenasport2/index.m3u8
 
 #EXTINF:8 group-title="chd-tv test" tvg-id="Arena Sport 3.ba" tvg-logo="" , Arena Sport 3
-http://194.26.229.213/arenasport3ba/video.m3u8
+http://194.26.229.213/arenasport3ba/index.m3u8
 
 #EXTINF:9 group-title="chd-tv test" tvg-id="Arena Sport 4.ba" tvg-logo="" , Arena Sport 4
-http://194.26.229.213/arenasport4ba/video.m3u8
+http://194.26.229.213/arenasport4ba/index.m3u8
 
 #EXTINF:10 group-title="chd-tv test" tvg-id="Arena Sport 5.ba" tvg-logo="" , Arena Sport 5
-http://194.26.229.213/arenasport5ba/video.m3u8
+http://194.26.229.213/arenasport5ba/index.m3u8
 
 #EXTINF:11 group-title="chd-tv test" tvg-id="Arena Sport 6.ba" tvg-logo="" , Arena Sport 6
-http://194.26.229.213/arenasport6ba/video.m3u8
+http://194.26.229.213/arenasport6ba/index.m3u8
 
 #EXTINF:12 group-title="chd-tv test" tvg-id="ARENA SPORT PL.🇧🇦" tvg-logo="" , Arena Sport PL
-http://194.26.229.213/arenasportpl/video.m3u8
-
-
+http://194.26.229.213/arenasportpl/index.m3u8
 
 
 

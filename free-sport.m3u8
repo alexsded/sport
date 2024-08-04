@@ -479,8 +479,7 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
 #EXTINF:-1 tvg-name="okko-sport" tvg-logo="https://i.ibb.co/HTj2TNf/image.png" group-title="Russia",Okko Sport
-http://158.101.194.132:8080/channel/79f180dd/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-
+http://194.26.229.213/okko_sport/index.m3u8
 #EXTINF:-1 tvg-name="Первый канал Спорт 1 HD" tvg-logo="https://i.ibb.co/hV3JybN/image-23.png" group-title="Russia",Первый канал Спорт 1 HD
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 

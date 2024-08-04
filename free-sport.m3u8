@@ -3087,6 +3087,54 @@ http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531406&e
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:36:6a:52&stream=531407&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SuperSports",SuperSport Action http://premiumiptvmk.com:8080/F19236/516c41c7/194354 0 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="SuperSports",SuperSport Blitz 
+http://premiumiptvmk.com:8080/F19236/516c41c7/281536
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SuperSports",SuperSport Cricket 
+http://premiumiptvmk.com:8080/F19236/516c41c7/11637
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SuperSports",SuperSport Golf 
+http://premiumiptvmk.com:8080/F19236/516c41c7/11641
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SuperSports",SuperSport Grandstand 
+http://premiumiptvmk.com:8080/F19236/516c41c7/194353
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SuperSports",SuperSport LaLiga 
+http://premiumiptvmk.com:8080/F19236/516c41c7/194358 
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SuperSports",SuperSport Motorsport 
+http://premiumiptvmk.com:8080/F19236/516c41c7/11638
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 1 
+http://premiumiptvmk.com:8080/F19236/516c41c7/197704
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 2 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304120
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 3 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304121
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 4 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304122
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 5 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304123
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 6 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304124
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 7 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304125
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport OTT 8 
+http://premiumiptvmk.com:8080/F19236/516c41c7/304126
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SuperSports",SuperSport Play 
+http://premiumiptvmk.com:8080/F19236/516c41c7/201121
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="✰ ESPN FHD EXCLUSIVO ⚽⚽⚽      " tvg-logo="http://nino4play.com:25461/images/86adba1ba33f03928f261326076db6ba.jpg" group-title="LATINO ",✰ ESPN FHD EXCLUSIVO ⚽⚽⚽      
 http://158.69.52.98:25461/ALEX5/NUNEZ5/10974
 #EXTINF:-1 tvg-id="" tvg-name="✰ 01 STAR + SOLO EVENTOS" tvg-logo="https://play-lh.googleusercontent.com/fzOLro2JVqIg3ccrDELIvqXQF79LHlDNUKwY2qHQof_yQSNEseqyXTWtlu6Wa14UPA" group-title="LATINO ",✰ 01 STAR + SOLO EVENTOS

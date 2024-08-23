@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",13.08.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",23.08.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -32,16 +32,7 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/svbd24xp/olympics-1.png" group-title="Live/Channel",ss 1 olimp
-http://194.26.229.213/ss_1olimp/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/vp5eut4l/olympics-2.png" group-title="Live/Channel",ss 2 olimp
-http://194.26.229.213/ss_2olimp/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/qpoifrkb/olympics-3.png" group-title="Live/Channel",ss 3 olimp
-http://194.26.229.213/ss_3olimp/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="Live/Channel",ss_olimp
-http://194.26.229.213/ss_euro2024/index.m3u8?token=Panda
+
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
@@ -96,53 +87,6 @@ https://sdmx.vip:443/play/V6xARGU5YmMBv3YE1CKLqteLAEhCcZFewLxDedD508s/m3u8
 
 
 
-
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Detektiv HD  
-http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Kids HD  
-http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop-TV-Масяня  
-http://194.26.229.213/Prokop-TV-masyana/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Hip Hop  
-http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop-TV-Сказки СССР  
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Show HD  
-http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Serial HD  
-http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV HD UA  
-http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Criminal HD  
-http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Cinema 4K  
-http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Kung Fu  
-http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Comedy HD  
-http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Docu HD  
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Horror HD  
-http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Fantazy HD  
-http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV The Simpsons HD UA  
-http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Rock  
-http://194.26.229.213/Prokop-TV-Rock/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Netflix HD  
-http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop-TV-Вторая мировая  
-http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV 60 FPS  
-http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV History HD  
-http://194.26.229.213/Prokop-TV-History-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV New Films HD  
-http://194.26.229.213/Prokop-TV-New-Films-HD/video.m3u8?token=Panda
-#EXTINF:-1 group-title="Prokop tv",Prokop TV Music  
-http://194.26.229.213/Prokop-TV-Music/video.m3u8?token=Panda
 
 
 

@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",23.08.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",01.09.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -1471,7 +1471,54 @@ http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
 http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Turkey",Ziraat Turkiye Kupasi TV
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
-
+#EXTINF:0 tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://troya.one/images/chIcons/1424.png" tvg-rec="0" group-title="Turkey",Bein Sports 1 HD
+http://2.troya.one:34000/ch1424/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z_5gDrtlBvgNP0SOsjWNzOTsO7cWk_UqVjLjcrjT7Af6
+#EXTINF:0 tvg-name="TR: Bein Sports 2 HD" tvg-logo="http://troya.one/images/chIcons/1425.png" tvg-rec="0" group-title="Turkey",Bein Sports 2 HD
+http://2.troya.one:34000/ch1425/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z9WUKvCloTtNtDVaCRPOPvkpyluYG9PoA4DuOUFrmg0M
+#EXTINF:0 tvg-name="TR: Bein Sports 3 HD" tvg-logo="http://troya.one/images/chIcons/1426.png" tvg-rec="0" group-title="Turkey",Bein Sports 3 HD
+http://2.troya.one:34000/ch1426/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z3ySl0INevYmlVV6qaP5infSx73QDXtOZn8eHQI2RzXq
+#EXTINF:0 tvg-name="TR: Bein Sports 4 HD" tvg-logo="http://troya.one/images/chIcons/1448.png" tvg-rec="0" group-title="Turkey",Bein Sports 4 HD
+http://2.troya.one:34000/ch1448/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z5bhz2BJymRWeTf6Q_aad5i5ro2hMzOIkxoYx-gK0hOP
+#EXTINF:0 tvg-name="TR: Bein Sports MAX 1 HD" tvg-logo="http://troya.one/images/chIcons/1449.png" tvg-rec="0" group-title="Turkey",Bein Sports MAX 1 HD
+http://2.troya.one:34000/ch1449/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z1MhllS6jRgiTNTWNPxuC5lsaDyGehLz3A-6-4LQ1k2k
+#EXTINF:0 tvg-name="TR: Bein Sports MAX 2 HD" tvg-logo="http://troya.one/images/chIcons/1450.png" tvg-rec="0" group-title="Turkey",Bein Sports MAX 2 HD
+http://2.troya.one:34000/ch1450/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4zxLtR2olCEtFwzJ5R_rOY5_7z-Y0fqBHTbbM7AakChEc
+#EXTINF:0 tvg-name="TR: Eurosport 1 HD" tvg-logo="http://troya.one/images/chIcons/2481.png" tvg-rec="0" group-title="Turkey",Eurosport 1 HD
+http://2.troya.one:34000/ch2481/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4zyBeaF3V4TqbGgOlHGGPD_95rqrk8pxVsMFw9rHiKDUY
+#EXTINF:0 tvg-name="TR: Eurosport 2 HD" tvg-logo="http://troya.one/images/chIcons/2482.png" tvg-rec="0" group-title="Turkey",Eurosport 2 HD
+http://2.troya.one:34000/ch2482/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z4o2paNBZVyTxn0z19v9MnfEW70kwGdddOy1GLcr8RJQ
+#EXTINF:0 tvg-name="TR: S Sport HD" tvg-logo="http://troya.one/images/chIcons/1397.png" tvg-rec="0" group-title="Turkey",S Sport HD
+http://2.troya.one:34000/ch1397/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z-sUqNp0nLrKlwbXy-qgW5ePIj9nUGKi46NnGitlc7Y_
+#EXTINF:0 tvg-name="TR: S Sport 2 HD" tvg-logo="http://troya.one/images/chIcons/1398.png" tvg-rec="0" group-title="Turkey",S Sport 2 HD
+http://2.troya.one:34000/ch1398/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z2Xi2yFE_CgxzB_UURns2iNQHyFvHCt_s1wRNc_6QZGT
+#EXTINF:0 tvg-name="TR: Spor Smart HD" tvg-logo="http://troya.one/images/chIcons/1408.png" tvg-rec="0" group-title="Turkey",Spor Smart HD
+http://2.troya.one:34000/ch1408/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z6kmBedkPeqRrTmOHjXStOwFbNAJGjXDZe6Mjag1eoXK
+#EXTINF:0 tvg-name="TR: Spor Smart 2 HD" tvg-logo="http://troya.one/images/chIcons/1784.png" tvg-rec="0" group-title="Turkey",Spor Smart 2 HD
+http://2.troya.one:34000/ch1784/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4zwANKsH7z3FPWD0_pFhW_nxw6RWO5VdyzPWAqdBKCxsZ
+#EXTINF:0 tvg-name="TR: TRT Spor HD" tvg-logo="http://troya.one/images/chIcons/1416.png" tvg-rec="0" group-title="Turkey",TRT Spor HD
+http://2.troya.one:34000/ch1416/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z1cGWp0GFygvMpSwyGHenPtKe36jcH6814nmdSkeh28d
+#EXTINF:0 tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="http://troya.one/images/chIcons/1451.png" tvg-rec="0" group-title="Turkey",Tivibu Spor 1 HD
+http://2.troya.one:34000/ch1451/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z9wZLho8OsLx5TFb4uXpYd90dK6sbIGlXkr_WnUB9c-1
+#EXTINF:0 tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="http://troya.one/images/chIcons/1452.png" tvg-rec="0" group-title="Turkey",Tivibu Spor 2 HD
+http://2.troya.one:34000/ch1452/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z4vHFwjiibS6fL1NvTO1xmXBRIZgYxu9sg8l18diZ5fp
+#EXTINF:0 tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="http://troya.one/images/chIcons/1453.png" tvg-rec="0" group-title="Turkey",Tivibu Spor 3 HD
+http://2.troya.one:34000/ch1453/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z1DDqMIaJn3WhRA69VicZkI1HwNj-wjTc5P8v2djNONd
+#EXTINF:0 tvg-name="TR: Exxen 1 HD" tvg-logo="http://troya.one/images/chIcons/1994.png" tvg-rec="0" group-title="Turkey",Exxen 1 HD
+http://2.troya.one:34000/ch1994/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z7AJEYh8NDa0fx-M07gsQ2KVthfby-HfkrQngy3iWXYx
+#EXTINF:0 tvg-name="TR: Exxen 2 HD" tvg-logo="http://troya.one/images/chIcons/1995.png" tvg-rec="0" group-title="Turkey",Exxen 2 HD
+http://2.troya.one:34000/ch1995/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z6L0uB3t5N8PA4jS8sVK5ksv1sTuJCwnlOTaUbprF4Ax
+#EXTINF:0 tvg-name="TR: Exxen 3 HD" tvg-logo="http://troya.one/images/chIcons/1996.png" tvg-rec="0" group-title="Turkey",Exxen 3 HD
+http://2.troya.one:34000/ch1996/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z2SxsgZQZ-xPhoKylxy5MwMxtxOcoju_ih3CYRr-GRvH
+#EXTINF:0 tvg-name="TR: Exxen 4 HD" tvg-logo="http://troya.one/images/chIcons/1997.png" tvg-rec="0" group-title="Turkey",Exxen 4 HD
+http://2.troya.one:34000/ch1997/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z9XTyNb1yUfR-ZjQiE0vjKUJAoEM3AqPQZiBBixxhSmU
+#EXTINF:0 tvg-name="TR: Exxen 5 HD" tvg-logo="http://troya.one/images/chIcons/1998.png" tvg-rec="0" group-title="Turkey",Exxen 5 HD
+http://2.troya.one:34000/ch1998/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z82sk14zpjqeuVigB4zQWrEmIktZGdSQmBwyeHUYFzDZ
+#EXTINF:0 tvg-name="TR: Exxen 6 HD" tvg-logo="http://troya.one/images/chIcons/1999.png" tvg-rec="0" group-title="Turkey",Exxen 6 HD
+http://2.troya.one:34000/ch1999/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z6wYgFKi3g1rRNucjsR-6KNIf3KgD4kcIlgp3o656Dep
+#EXTINF:0 tvg-name="TR: Exxen 7 HD" tvg-logo="http://troya.one/images/chIcons/2000.png" tvg-rec="0" group-title="Turkey",Exxen 7 HD
+http://2.troya.one:34000/ch2000/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z1oYT2PzCjGrasC0xkIo4pnuTcLNoefFEeyYbGQgwgWK
+#EXTINF:0 tvg-name="TR: Exxen 8 HD" tvg-logo="http://troya.one/images/chIcons/2001.png" tvg-rec="0" group-title="Turkey",Exxen 8 HD
+http://2.troya.one:34000/ch2001/mono.m3u8?token=rl_liverpool8.DKjznTBh_rabn47WiXW4z2YD79PjMDFCp_EWAdkKZV68qt8IBIU3FuMcQQkvuPdI
 
 
 

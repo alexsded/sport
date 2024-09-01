@@ -33,7 +33,8 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
 
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",JOJ Šport
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",
 

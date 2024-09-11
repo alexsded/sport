@@ -8,7 +8,7 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",09.09.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",11.09.2024 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
@@ -28,7 +28,8 @@ http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Panda
 https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",
+#EXTINF:-1 tvg-logo="" group-title="Live/Channel",Okko Futbol
+http://194.26.229.213/okko_sport/index.m3u8?token=Panda
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098

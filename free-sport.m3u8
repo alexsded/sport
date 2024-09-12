@@ -43,14 +43,14 @@ https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=727714&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",V Sport Premier League
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=727711&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",Go 3 Sport 1
+http://194.26.229.213/Go-3-Sport-1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",Go 3 Sport 2
+http://194.26.229.213/go3sport2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",Go 3 Sport 3
+http://194.26.229.213/go3sport3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",Go 3 Sport 4
+http://194.26.229.213/go3sport4/index.m3u8
 
 
 

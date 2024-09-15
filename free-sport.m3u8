@@ -55,7 +55,7 @@ http://194.26.229.213/go3sport4/index.m3u8
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/110_x_ZthGxK85dq3pbS9uv4knjiOf1ylwgrWI.png" group-title="Test/Channel",MV-GO-SPORT
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 
-#EXTINF:-1tvg-id="V Sport Ultra HD" tvg-logo="https://i.ibb.co/vsRLWMF/vsportuhd.png" group-title="Test/Channel",V Sport UHD 🇸🇪
+#EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-logo="https://i.ibb.co/vsRLWMF/vsportuhd.png" group-title="Test/Channel",V Sport UHD 🇸🇪
 http://194.26.229.213/v-sport/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",

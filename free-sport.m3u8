@@ -77,7 +77,16 @@ http://194.26.229.213/mego3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 
 
-
+#EXTINF:-1 group-title="Test/Channel",Arena Sport 1
+http://5.206.237.85:8600/play/a014/index.m3u8
+#EXTINF:-1 group-title="Test/Channel",Arena Sport 2
+http://5.206.237.85:8600/play/a015/index.m3u8
+#EXTINF:-1 group-title="Test/Channel",Arena Sport 3
+http://5.206.237.85:8600/play/a016/index.m3u8
+#EXTINF:-1 group-title="Test/Channel",Arena Sport 4
+http://5.206.237.85:8600/play/a017/index.m3u8
+#EXTINF:-1 group-title="Test/Channel",Arena Sport 5
+http://5.206.237.85:8600/play/a018/index.m3u8
 
 
 

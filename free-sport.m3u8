@@ -64,9 +64,17 @@ http://194.26.229.213/tv4sportlive3/index.m3u8
 #EXTINF:-1 tvg-id="TV4 Sport Live 4" tvg-logo="https://i.ibb.co/j6YkgRr/tv4sportl4.png" group-title="Test/Channel",TV4 SPORT LIVE 4 🇸🇪
 http://194.26.229.213/tv4sportlive4/index.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="megogo-sport" group-title="Test/Channel",megogo sport
+http://194.26.229.213/mego-s/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/av49pm4py2a71oj/MEGOGOFUTBOL1200.png" tvg-id="megogo-football-1" group-title="Test/Channel",megogo 1
+http://194.26.229.213/mego1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45ekod2to7o0xqp/MEGOGOFUTBOL2200.png" tvg-id="megogo-football-2" group-title="Test/Channel",megogo 2
+http://194.26.229.213/mego2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zbf00bgtymheion/MEGOGOFUTBOL3200.png" tvg-id="megogo-football-3"group-title="Test/Channel",megogo 3
+http://194.26.229.213/mego3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 
 
 

@@ -28,7 +28,7 @@ http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Panda
 https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",Okko Futbol
+#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/fe6c0a65-5a65-4276-8bf1-d719a20532c6?width=504&scale=1.2&quality=80&mediaType=webp&trimBorder=true" group-title="Live/Channel",Okko Futbol
 http://194.26.229.213/okko_sport/index.m3u8?token=Panda
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature

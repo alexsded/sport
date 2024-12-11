@@ -1615,16 +1615,6 @@ http://194.26.229.213/Eurosport-1/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="eurosport2" group-title="Russia" ,Eurosport 2
 http://194.26.229.213/Eurosport-2/index.m3u8?token=Panda
 
-#EXTINF:-1 group-title="Russia",Старт HD
-http://194.26.229.213/start_new/index.m3u8?token=Panda
-
-#EXTINF:-1 group-title="Russia",Старт Триумф
-http://194.26.229.213/start_triumf/index.m3u8?token=Panda
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/nbnw28x/image-9.png" group-title="Russia",Старт Туран
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8
-
 #EXTINF:-1 group-title="Russia",Russian Extreme HD
 https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 
@@ -1643,20 +1633,9 @@ http://194.26.229.213/TUDN_igra/index.m3u8?token=Panda
 #EXTINF:-1 group-title="Russia",Сила
 http://194.26.229.213/TUDN_sila/index.m3u8?token=Panda
 
-#EXTINF:-1 group-title="Russia",M-1 GLOBAL
-
 
 #EXTINF:-1 group-title="Russia",Поединок
 #http://194.26.229.213/TUDN_poedinok/index.m3u8?token=Panda
-
-#EXTINF:-1 group-title="Russia",Футбольный HD
-#http://194.26.229.213/TUDN_futboln/index.m3u8?token=Panda
-
-#EXTINF:-1 group-title="Russia",Хоккейный HD
-#http://194.26.229.213/TUDN_hocceyn/index.m3u8?token=Panda
-
-#EXTINF:-1 group-title="Russia",Спортивный
-#http://194.26.229.213/TUDN_sportivn/index.m3u8?token=Panda
 
 #EXTINF:-1 group-title="Russia",Setanta Sports 1
 http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Panda

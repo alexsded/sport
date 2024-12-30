@@ -51,28 +51,18 @@ http://194.26.229.213/go3sport3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" group-title="Test/Channel" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="IPTV",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball2.th" group-title="Test/Channel" tvg-name="True Premier Football 2" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre2.png" group-title="IPTV",True Premier Football
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball3.th" group-title="Test/Channel" tvg-name="True Premier Football 3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431293_ico.png?ts=1696151935" group-title="IPTV",True Premier Football 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball4.th" group-title="Test/Channel" tvg-name="True Premier Football 4" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431296_ico.png?ts=1696151980" group-title="IPTV",True Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" group-title="Test/Channel" tvg-name="True Premier Football 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431298_ico.png?ts=1696152022" group-title="IPTV",True Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
 
 

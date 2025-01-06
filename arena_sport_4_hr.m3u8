@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BC:E8:DC&stream=102551&extension=m3u8
+http://zigwse1d8795769a.kothre.iptvfy.com:8080/live/play/VDA1ek4wOVVUVFJJSzJSeVNYVmxTVFI2ZEhsMmFGWnVNRXA0VDFCeFZXbzNjR1JKUVVSdFYxbHhORDA9/102551
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BA:27:D9&stream=102551&extension=m3u8
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:B2:6B:89D&stream=41393&extension=m3u8
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:0A:CE:C2&stream=41393&extension=m3u8

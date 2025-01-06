@@ -90,7 +90,7 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" tvg-name="arena-sport-1-hr", Arena Sport 1 [HR]
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" tvg-name="arena-sport-3-hr", Arena Sport 3 [HR]
 https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_3_hr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 

@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:RESOLUTION=640x480,FRAME-RATE=50.000,AVERAGE-BANDWIDTH=1000000,BANDWIDTH=63000
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:D0:16:52&stream=102551&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:B3:06:8F&stream=1479590&extension=m3u8
 #EXT-X-STREAM-INF:RESOLUTION=768x576,FRAME-RATE=50.000,AVERAGE-BANDWIDTH=2000000,BANDWIDTH=770000
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BF:DE:7A&stream=102551&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:82:23:70&stream=1479590&extension=m3u8
 #EXT-X-STREAM-INF:RESOLUTION=960x720,FRAME-RATE=50.000,AVERAGE-BANDWIDTH=3000000,BANDWIDTH=820000
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BA:B2:80&stream=41393&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7C:0D:FA&stream=1479590&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000,RESOLUTION=1920x1080
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:0A:CE:C2&stream=41393&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:BB:0B:F1&stream=1479590&extension=m3u8

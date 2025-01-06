@@ -93,10 +93,10 @@ http://212.102.60.231/TSN_5/index.m3u8
 https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_1_hr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-2-hr", Arena Sport 2 [HR]
 https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_2_hr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" tvg-name="arena-sport-3-hr", Arena Sport 3 [HR]
+#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-3-hr", Arena Sport 3 [HR]
 https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_3_hr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-4-hr", Arena Sport 4 [HR]
-https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_4_hr.m3u8
+https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_4_hr.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",

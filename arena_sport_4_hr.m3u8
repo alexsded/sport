@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BC:E8:DC&stream=102551&extension=m3u8
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:BA:27:D9&stream=102551&extension=m3u8
 http://clientsportals.com:2095/play/live.php?mac=00:1A:79:B2:6B:89D&stream=41393&extension=m3u8

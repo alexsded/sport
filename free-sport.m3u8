@@ -34,9 +34,6 @@ https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/fe6c0a65-5a65-4276-8bf1-d719a20532c6?width=504&scale=1.2&quality=80&mediaType=webp&trimBorder=true" group-title="Live/Channel",Okko Futbol
-http://194.26.229.213/okko_sport/index.m3u8?token=Free_tv_sport
-
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
 
@@ -141,9 +138,6 @@ http://194.26.229.213/khl/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",KHL Prime
 http://194.26.229.213/khl_prime/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-name="okko-sport" tvg-logo="https://i.ibb.co/HTj2TNf/image.png" group-title="Russia",Okko Sport
-http://194.26.229.213/okko_sport/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-name="Первый канал Спорт 1 HD" tvg-logo="https://i.ibb.co/hV3JybN/image-23.png" group-title="Russia",Первый канал Спорт 1 HD
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd

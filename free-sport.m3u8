@@ -1691,10 +1691,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 http://194.26.229.213/VIASATSPORTHD/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia" ,Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-
-#EXTINF:-1 tvg-id="Sport.kg" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="Russia",УТРК Спорт
-https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+http://194.26.229.213/CH_UFCHD/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-id="Sport.uz" tvg-logo="" group-title="Russia",Sport-UZ
 https://st1.uzdigital.tv/Sport-UZ/tracks-v2a1a2/mono.m3u8

@@ -8,28 +8,28 @@ https://github.com/chdtv/info/raw/main/main.mp4
 https://github.com/chdtv/info/raw/main/main.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",не забывайте обновлять лист.
 https://github.com/chdtv/info/raw/main/main.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",31.12.2024 версия обновления.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg" group-title="🔺 INFO 🔺",19.01.2025 версия обновления.
 https://github.com/chdtv/info/raw/main/main.mp4
 
 
 
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live1" group-title="Live/Channel",SportCast Live 1
-http://194.26.229.213/777_SportCast_Live_1/index.m3u8?token=Panda
+http://194.26.229.213/777_SportCast_Live_1/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live2" group-title="Live/Channel",SportCast Live 2
-http://194.26.229.213/TUDN_SportCast_Live_2/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_SportCast_Live_2/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live3" group-title="Live/Channel",SportCast Live 3
-http://194.26.229.213/777_SportCast_Live_3/index.m3u8?token=Panda
+http://194.26.229.213/777_SportCast_Live_3/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live4" group-title="Live/Channel",SportCast Live 4
-http://194.26.229.213/777_SportCast_Live_4/index.m3u8?token=Panda
+http://194.26.229.213/777_SportCast_Live_4/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 #EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live5" group-title="Live/Channel",SportCast Live 5
-http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Panda
+http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",Moto GP (Evgen)
 https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/fe6c0a65-5a65-4276-8bf1-d719a20532c6?width=504&scale=1.2&quality=80&mediaType=webp&trimBorder=true" group-title="Live/Channel",Okko Futbol
-http://194.26.229.213/okko_sport/index.m3u8?token=Panda
+http://194.26.229.213/okko_sport/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
@@ -89,14 +89,6 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-1-hr", Arena Sport 1 [HR]
-https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_1_hr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-2-hr", Arena Sport 2 [HR]
-https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_2_hr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-3-hr", Arena Sport 3 [HR]
-https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_3_hr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test/Channel" tvg-name="arena-sport-4-hr", Arena Sport 4 [HR]
-https://github.com/alexsded/sport/raw/refs/heads/main/arena_sport_4_hr.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test/Channel",
 
@@ -1575,10 +1567,10 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 http://195.211.27.149:8887/8326/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Russia",KHL
-http://194.26.229.213/khl/index.m3u8?token=Panda
+http://194.26.229.213/khl/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",KHL Prime
-http://194.26.229.213/khl_prime/index.m3u8?token=Panda
+http://194.26.229.213/khl_prime/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 tvg-name="NHL (Интересные моменты)" tvg-logo="https://i.ibb.co/tx0pVRM/image-50.png" group-title="Russia", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -1623,43 +1615,42 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 group-title="Russia",Матч! Премьер HD
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 group-title="Russia",Матч! Арена
-http://194.26.229.213/ma/index.m3u8?token=Panda
+http://194.26.229.213/ma/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 
 #EXTINF:-1 group-title="Russia",МАТЧ! СТРАНА
-http://194.26.229.213/ms/index.m3u8?token=Panda
+http://194.26.229.213/ms/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 
 #EXTINF:-1 group-title="Russia",Матч! Боец
-http://194.26.229.213/mb/index.m3u8?token=Panda
+http://194.26.229.213/mb/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Матч! Игра
-http://194.26.229.213/mi/index.m3u8?token=Panda
+http://194.26.229.213/mi/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 
 #EXTINF:-1 group-title="Russia" ,Матч! Футбол 1 HD
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia" , Матч! Футбол 2 HD
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia", Матч! Футбол 3 HD
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Футбол
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Russia" ,Eurosport 1
-http://194.26.229.213/Eurosport-1/index.m3u8?token=Panda
-
+http://194.26.229.213/Eurosport-1/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 #EXTINF:-1 tvg-id="eurosport2" group-title="Russia" ,Eurosport 2
-http://194.26.229.213/Eurosport-2/index.m3u8?token=Panda
+http://194.26.229.213/Eurosport-2/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia" ,Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
@@ -1668,32 +1659,32 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 
 #EXTINF:-1 group-title="Russia",Игра
-http://194.26.229.213/TUDN_igra/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_igra/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Сила
-http://194.26.229.213/TUDN_sila/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_sila/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 
 #EXTINF:-1 group-title="Russia",Поединок
-#http://194.26.229.213/TUDN_poedinok/index.m3u8?token=Panda
+#http://194.26.229.213/TUDN_poedinok/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Setanta Sports 1
-http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Setanta Sports 2
-http://194.26.229.213/TUDN_Setanta-Sports-2/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Sports-2/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Setanta Sports Ukraine
-http://194.26.229.213/TUDN_Setanta-Sports-Ukraine/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Sports-Ukraine/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Setanta Sports+ Ukraine
-http://194.26.229.213/TUDN_Setanta-Sports-Plus-Ukraine/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Sports-Plus-Ukraine/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 group-title="Russia",Setanta Qazaqstan
-http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Russia" ,Setanta Qazaqstan KZ
-http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
+http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=https://t.me/+PGNfOCcwIb43YjQy
 
 
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport [kz]" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Russia",QazSport️

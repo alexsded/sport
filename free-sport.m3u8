@@ -13,19 +13,19 @@ https://github.com/chdtv/info/raw/main/main.mp4
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live1" group-title="Live/Channel",SportCast Live 1
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live1.png" tvg-id="box-sportcast-live1" group-title="Live/Channel",SportCast Live 1
 http://194.26.229.213/777_SportCast_Live_1/index.m3u8?token=Free_tv_sport
 
-#EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live2" group-title="Live/Channel",SportCast Live 2
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live2.png" tvg-id="box-sportcast-live2" group-title="Live/Channel",SportCast Live 2
 http://194.26.229.213/TUDN_SportCast_Live_2/index.m3u8?token=Free_tv_sport
 
-#EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live3" group-title="Live/Channel",SportCast Live 3
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live3.png" tvg-id="box-sportcast-live3" group-title="Live/Channel",SportCast Live 3
 http://194.26.229.213/777_SportCast_Live_3/index.m3u8?token=Free_tv_sport
 
-#EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live4" group-title="Live/Channel",SportCast Live 4
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live4.png" tvg-id="box-sportcast-live4" group-title="Live/Channel",SportCast Live 4
 http://194.26.229.213/777_SportCast_Live_4/index.m3u8?token=Free_tv_sport
 
-#EXTINF:-1 tvg-logo="" tvg-name="box-sportcast-live5" group-title="Live/Channel",SportCast Live 5
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live5.png" tvg-id="box-sportcast-live5" group-title="Live/Channel",SportCast Live 5
 http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",Moto GP (Evgen)
@@ -34,20 +34,20 @@ https://s5.strea.ru/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" group-title="Live/Channel",Love Nature
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" tvg-id="love-nature-4k" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="Test/Channel",Go 3 Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" tvg-id="tvplay-sports" group-title="Test/Channel",Go 3 Sport 1
 http://194.26.229.213/Go-3-Sport-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="Test/Channel",Go 3 Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" tvg-id="tvplay-sports-plus" group-title="Test/Channel",Go 3 Sport 2
 http://194.26.229.213/go3sport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/McNdZnx/go3sport3.png" group-title="Test/Channel",Go 3 Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/McNdZnx/go3sport3.png" tvg-id="tv3-sport-3" group-title="Test/Channel",Go 3 Sport 3
 http://194.26.229.213/go3sport3/index.m3u8
 
 

@@ -1547,33 +1547,25 @@ https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://boxing-tvs.fi/wp-content/uploads/2020/02/cropped-header_logo.png",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" tvg-chno="4492" group-title="UK", MotorRacing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Russia",Конный мир
-http://195.211.27.149:8887/8326/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Russia",KHL
-http://194.26.229.213/khl/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 group-title="Russia",KHL Prime
-http://194.26.229.213/khl_prime/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-name="NHL (Интересные моменты)" tvg-logo="https://i.ibb.co/tx0pVRM/image-50.png" group-title="Russia", NHL (Интересные моменты)
+#EXTINF:-1 tvg-name="NHL (Интересные моменты)" tvg-logo="https://i.ibb.co/tx0pVRM/image-50.png" group-title="", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="CHD-TV" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
@@ -1587,17 +1579,22 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="CHD-TV" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 channel-id="samsung-GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" tvg-chno="4492" group-title="UK", MotorRacing
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
 
 
 
 
+
+#EXTINF:-1 group-title="Russia",KHL
+http://194.26.229.213/khl/index.m3u8?token=Free_tv_sport
+
+#EXTINF:-1 group-title="Russia",KHL Prime
+http://194.26.229.213/khl_prime/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-name="okko-sport" tvg-logo="https://i.ibb.co/HTj2TNf/image.png" group-title="Russia",Okko Sport
-http://194.26.229.213/okko_sport/index.m3u8
+http://194.26.229.213/okko_sport/index.m3u8?token=Free_tv_sport
+
 #EXTINF:-1 tvg-name="Первый канал Спорт 1 HD" tvg-logo="https://i.ibb.co/hV3JybN/image-23.png" group-title="Russia",Первый канал Спорт 1 HD
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
@@ -1623,17 +1620,14 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Russia",Матч! Арена
 http://194.26.229.213/ma/index.m3u8?token=Free_tv_sport
 
-
 #EXTINF:-1 group-title="Russia",МАТЧ! СТРАНА
 http://194.26.229.213/ms/index.m3u8?token=Free_tv_sport
-
 
 #EXTINF:-1 group-title="Russia",Матч! Боец
 http://194.26.229.213/mb/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Матч! Игра
 http://194.26.229.213/mi/index.m3u8?token=Free_tv_sport
-
 
 #EXTINF:-1 group-title="Russia" ,Матч! Футбол 1 HD
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Free_tv_sport
@@ -1649,6 +1643,7 @@ http://194.26.229.213/CH_FUTBALLHD/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Russia" ,Eurosport 1
 http://194.26.229.213/Eurosport-1/index.m3u8?token=Free_tv_sport
+
 #EXTINF:-1 tvg-id="eurosport2" group-title="Russia" ,Eurosport 2
 http://194.26.229.213/Eurosport-2/index.m3u8?token=Free_tv_sport
 
@@ -1663,7 +1658,6 @@ http://194.26.229.213/TUDN_igra/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Сила
 http://194.26.229.213/TUDN_sila/index.m3u8?token=Free_tv_sport
-
 
 #EXTINF:-1 group-title="Russia",Поединок
 #http://194.26.229.213/TUDN_poedinok/index.m3u8?token=Free_tv_sport
@@ -1686,7 +1680,6 @@ http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Free_tv_sport
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Russia" ,Setanta Qazaqstan KZ
 http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Free_tv_sport
 
-
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport [kz]" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Russia",QazSport️
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
@@ -1695,8 +1688,7 @@ http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 #EXTINF:-1  group-title="Russia" ,Viasat Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://flussonic.beeonline.az:80/viasatsport/index.m3u8?token=test
+http://194.26.229.213/VIASATSPORTHD/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia" ,Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
@@ -1716,7 +1708,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="TVVarzish.tj" tvg-name="TV Varzish [tj]" tvg-logo="https://i.imgur.com/4AJRkGb.png" group-title="Russia", TV Varzish
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://live.teleradiocom.tj/5/3m.m3u8
-
 
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="Russia",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8

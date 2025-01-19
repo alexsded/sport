@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://7pal.short.gy/alex-epg, https://iptvx.one/EPG_LITE"
+#EXTM3U tvg-url="https://iptvx.one/EPG_LITE, https://7pal.short.gy/alex-epg"
 
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/bvrBmcVZ/FreeSport.jpg",
 https://github.com/chdtv/info/raw/main/main.mp4

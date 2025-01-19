@@ -31,12 +31,11 @@ http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Free_tv_sport
 #EXTINF:-1 tvg-logo="https://strea.ru/img/logo.png" group-title="Live/Channel",Moto GP (Evgen)
 https://s5.strea.ru/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Live/Channel",A21 Network : Russian Motorsport Television
+#EXTINF:-1 tvg-logo="https://sun9-21.userapi.com/s/v1/ig2/1cHYFaKAr7oiRMdAx4zCctMHzw4yT7N_BazLNHDjRH6trLmeSgx0s6AOULL-CYx-a75HyGJWHhHPdhcP0Ou2kc60.jpg?quality=95&crop=0,0,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=okKa14liOtA2QaGlChqkiKrFrtd4U1TJVzpLP0EZ95c&cs=100x100" group-title="Live/Channel",A21 Network : Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" tvg-id="love-nature-4k" group-title="Live/Channel",Love Nature
 http://95.67.12.82:9098
-
 
 
 

@@ -165,7 +165,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+http://194.26.229.213/mp/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Матч! Арена
 http://194.26.229.213/ma/index.m3u8?token=Free_tv_sport
@@ -198,16 +198,7 @@ http://194.26.229.213/Eurosport-1/index.m3u8?token=Free_tv_sport
 http://194.26.229.213/Eurosport-2/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Бокс ТВ
-https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
-
-#EXTINF:-1 group-title="Russia",Игра
-http://194.26.229.213/TUDN_igra/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 group-title="Russia",Сила
-http://194.26.229.213/TUDN_sila/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 group-title="Russia",Поединок
-#http://194.26.229.213/TUDN_poedinok/index.m3u8?token=Free_tv_sport
+http://194.26.229.213/TUDN_box/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 group-title="Russia",Setanta Sports 1
 http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Free_tv_sport

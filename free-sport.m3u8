@@ -195,9 +195,6 @@ http://77.239.125.42:8070/startnew/index.m3u8?token=Free_tv_sport
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" group-title="Russia",Старт Триумф HD
 http://77.239.125.42:8070/starttriumf/index.m3u8?token=Free_tv_sport
 
-#EXTINF:-1 tvg-id="fightbox-hd" tvg-logo="https://epg.iptvx.one/picons/fightbox-hd.png" group-title="Russia",FightBox HD
-http://77.239.125.42:8070/fightbox-hd/index.m3u8?token=Free_tv_sport
-
 #EXTINF:-1 tvg-id="m1global" tvg-logo="https://epg.iptvx.one/picons/m1global.png" group-title="Russia",MMA-TV
 http://77.239.125.42:8070/mma-tv-com/index.m3u8?token=Free_tv_sport
 

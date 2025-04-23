@@ -195,8 +195,14 @@ http://77.239.125.42:8070/startnew/index.m3u8?token=Free_tv_sport
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" group-title="Russia",Старт Триумф HD
 http://77.239.125.42:8070/starttriumf/index.m3u8?token=Free_tv_sport
 
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-logo="https://epg.iptvx.one/picons/fightbox-hd.png" group-title="Russia",FightBox HD
+http://77.239.125.42:8070/fightbox-hd/index.m3u8?token=Free_tv_sport
+
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" group-title="Russia",viju+ Sport
 http://194.26.229.213/VIASATSPORTHD/index.m3u8?token=Free_tv_sport
+
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epg.iptvx.one/picons/mir-basketbola.png" group-title="Russia",Мир баскетбола
+http://77.239.125.42:8070/mir-basketbola/index.m3u8?token=Free_tv_sport
 
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png" group-title="Russia",Удар
 http://194.26.229.213/CH_UFCHD/index.m3u8?token=Free_tv_sport

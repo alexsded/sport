@@ -13,26 +13,6 @@ https://github.com/chdtv/info/raw/main/main.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live1.png" tvg-id="box-sportcast-live1" group-title="Live/Channel",SportCast Live 1
-http://194.26.229.213/777_SportCast_Live_1/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live2.png" tvg-id="box-sportcast-live2" group-title="Live/Channel",SportCast Live 2
-http://194.26.229.213/TUDN_SportCast_Live_2/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live3.png" tvg-id="box-sportcast-live3" group-title="Live/Channel",SportCast Live 3
-http://194.26.229.213/777_SportCast_Live_3/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live4.png" tvg-id="box-sportcast-live4" group-title="Live/Channel",SportCast Live 4
-http://194.26.229.213/777_SportCast_Live_4/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/box-sportcast-live5.png" tvg-id="box-sportcast-live5" group-title="Live/Channel",SportCast Live 5
-http://194.26.229.213/777_SportCast_Live_5/index.m3u8?token=Free_tv_sport
-
-#EXTINF:-1 tvg-logo="https://strea.ru/img/logo.png" group-title="Live/Channel",Moto GP (Evgen)
-https://s5.strea.ru/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://sun9-21.userapi.com/s/v1/ig2/1cHYFaKAr7oiRMdAx4zCctMHzw4yT7N_BazLNHDjRH6trLmeSgx0s6AOULL-CYx-a75HyGJWHhHPdhcP0Ou2kc60.jpg?quality=95&crop=0,0,1080,1080&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=okKa14liOtA2QaGlChqkiKrFrtd4U1TJVzpLP0EZ95c&cs=100x100" group-title="Live/Channel",A21 Network : Russian Motorsport Television
-https://autopilot.catcast.tv/content/37909/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="Test/Channel",TH:TRUE BEINSPORTS 1

@@ -27,7 +27,7 @@ https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|user-agent=
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="Sports",TH:TRUE PREMIERE FOOTBALL 3
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png" group-title="Sportsl",TH:TRUE PREMIERE FOOTBALL 4
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png" group-title="Sports",TH:TRUE PREMIERE FOOTBALL 4
 https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png" group-title="Sports",TH:TRUE PREMIERE FOOTBALL 5
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|user-agent=Mozilla/5.0
@@ -207,7 +207,7 @@ http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="Russia",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://strea.ru/img/logo.png" group-title="Live/Channel",Moto GP (Evgen)
+#EXTINF:-1 tvg-logo="https://strea.ru/img/logo.png" group-title="Russia",Moto GP (Evgen)
 https://s5.strea.ru/index.m3u8
 
 

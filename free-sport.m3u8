@@ -207,7 +207,8 @@ http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="Russia",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://strea.ru/img/logo.png" group-title="Live/Channel",Moto GP (Evgen)
+https://s5.strea.ru/index.m3u8
 
 
 
